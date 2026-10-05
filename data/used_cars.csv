@@ -1,0 +1,1801 @@
+Car_ID,Brand,Model,Year,Fuel_Type,Transmission,Owner_Type,City,Kilometers_Driven,Price,Rating
+1,Tata,Harrier,2022,Diesel,Manual,First,Delhi,76304,530468,4.5
+2,Nissan,Sunny,2014,Petrol,Manual,First,Pune,108594,227907,3.5
+3,Renault,Kiger,2011,Petrol,Automatic,Third,Chennai,155265,82788,4.6
+4,Ford,Aspire,2023,Petrol,Manual,Second,Coimbatore,69709,374474,4.7
+5,Kia,Sonet,2009,Petrol,Automatic,First,Chennai,212052,76500,4.4
+6,Skoda,Octavia,2019,Petrol,Manual,Second,Delhi,89693,498459,4.2
+7,Mahindra,XUV500,2015,Petrol,Automatic,Third,Ahmedabad,100664,271429,3.7
+8,MG,Hector,2012,Diesel,Manual,First,Pune,129744,215798,3.4
+9,Tata,Punch,2022,Petrol,Automatic,Second,Pune,43541,528847,4.4
+10,Skoda,Kushaq,2017,Petrol,Manual,Second,Delhi,134598,348018,4.4
+11,Maruti,Dzire,2011,Diesel,Automatic,First,Ahmedabad,196061,180724,3.6
+12,Honda,City,2014,Diesel,Manual,Third,Pune,97311,278579,4.6
+13,Honda,Jazz,2016,Petrol,Manual,Third,Mumbai,121951,378547,4.2
+14,Honda,Amaze,2010,Diesel,Automatic,More than Third,Mumbai,172654,128964,4.2
+15,Tata,Punch,2009,CNG,Manual,First,Hyderabad,165264,177091,4.5
+16,Mahindra,Scorpio,2011,Petrol,Manual,Second,Chennai,147167,109280,3.8
+17,Toyota,Innova,2017,Diesel,Manual,First,Mumbai,126048,495268,4.0
+18,Hyundai,Verna,2013,Electric,Automatic,First,Kochi,162188,251626,4.4
+19,Tata,Punch,2024,Petrol,Manual,Third,Bengaluru,35339,557045,4.1
+20,Honda,Civic,2024,Diesel,Automatic,First,Jaipur,92966,680534,4.8
+21,Renault,Triber,2013,Diesel,Manual,Second,Chennai,154548,201330,4.0
+22,Toyota,Corolla,2019,Diesel,Automatic,Second,Kochi,90654,649564,4.5
+23,Kia,Sonet,2013,Petrol,Manual,First,Chennai,134703,228797,4.6
+24,Kia,Sonet,2013,Petrol,Manual,First,Kochi,156859,199078,4.3
+25,Volkswagen,Taigun,2021,Petrol,Manual,First,Bengaluru,52694,444902,4.3
+26,Ford,Endeavour,2010,Diesel,Manual,Second,Chennai,230000,213904,5.0
+27,Nissan,Magnite,2021,Petrol,Manual,Second,Bengaluru,98120,306711,4.6
+28,MG,Hector,2017,Electric,Manual,Second,Hyderabad,87525,317645,4.3
+29,Ford,Endeavour,2018,Diesel,Automatic,Third,Jaipur,131273,327529,4.7
+30,Skoda,Rapid,2010,Petrol,Automatic,More than Third,Kochi,185104,111437,3.7
+31,Toyota,Corolla,2025,Diesel,Manual,Second,Pune,52021,945619,4.0
+32,Mahindra,Bolero,2011,Petrol,Automatic,First,Coimbatore,203763,147960,4.3
+33,Kia,Seltos,2023,Petrol,Automatic,Second,Delhi,54039,965794,3.4
+34,Skoda,Kushaq,2021,Petrol,Manual,Second,Chennai,63682,607520,3.9
+35,Mahindra,Bolero,2021,Diesel,Manual,First,Mumbai,66732,659658,4.4
+36,Honda,Civic,2016,Diesel,Automatic,First,Delhi,138200,355676,4.4
+37,Tata,Harrier,2020,Diesel,Automatic,Second,Ahmedabad,64675,382341,3.8
+38,Kia,Carens,2017,Petrol,Automatic,First,Ahmedabad,122537,404381,3.8
+39,Ford,EcoSport,2014,Petrol,Manual,First,Bengaluru,138224,132831,4.0
+40,Hyundai,Venue,2014,Petrol,Manual,Third,Delhi,130326,156458,3.8
+41,Hyundai,Creta,2022,Petrol,Manual,Second,Hyderabad,48797,530794,3.4
+42,Toyota,Innova,2009,Petrol,Manual,Third,Bengaluru,181851,81000,3.9
+43,Kia,Carens,2015,Petrol,Manual,Second,Bengaluru,88990,327252,3.9
+44,Ford,Aspire,2021,Petrol,Manual,First,Bengaluru,109356,382084,3.7
+45,Kia,Sonet,2017,Petrol,Automatic,First,Pune,87374,541139,4.4
+46,Nissan,Sunny,2020,Petrol,Manual,First,Ahmedabad,84469,423410,4.3
+47,Skoda,Kushaq,2016,Electric,Automatic,First,Kochi,115730,470743,3.7
+48,Mahindra,XUV300,2020,CNG,Manual,First,Mumbai,94808,432926,4.4
+49,Volkswagen,Polo,2018,Petrol,Manual,Second,Hyderabad,122058,332174,4.6
+50,Renault,Kiger,2009,Diesel,Manual,First,Hyderabad,158831,91110,4.1
+51,Tata,Nexon,2024,CNG,Manual,Second,Delhi,35938,603170,4.8
+52,Kia,Carens,2019,Petrol,Manual,First,Chennai,171173,446611,4.3
+53,Nissan,Magnite,2011,Petrol,Manual,Third,Pune,199303,78000,4.7
+54,Toyota,Etios,2010,Petrol,Manual,First,Mumbai,129305,88405,4.1
+55,Tata,Nexon,2012,Petrol,Manual,First,Hyderabad,143671,203171,3.7
+56,MG,Hector,2025,Petrol,Manual,First,Jaipur,52089,770420,4.2
+57,Maruti,Celerio,2020,Diesel,Manual,Second,Chennai,106613,383735,4.3
+58,MG,Astor,2024,Petrol,Automatic,First,Chennai,71314,907984,3.6
+59,Toyota,Innova,2015,Diesel,Manual,Second,Ahmedabad,87989,436816,3.6
+60,Hyundai,Verna,2021,Petrol,Manual,Second,Pune,66832,450365,4.0
+61,Maruti,Wagon R,2014,Diesel,Manual,Second,Bengaluru,119124,118925,4.2
+62,Tata,Punch,2025,CNG,Manual,More than Third,Jaipur,88751,276360,4.1
+63,Toyota,Glanza,2020,CNG,Manual,Second,Pune,114616,648623,3.9
+64,Volkswagen,Taigun,2013,Electric,Automatic,More than Third,Chennai,145743,229146,4.5
+65,Kia,Carens,2015,Diesel,Manual,Second,Pune,93238,282292,4.3
+66,Volkswagen,Taigun,2012,Petrol,Manual,Second,Delhi,162467,180086,4.3
+67,Nissan,Kicks,2015,Diesel,Manual,First,Mumbai,150303,254449,5.0
+68,Mahindra,XUV300,2024,Petrol,Manual,First,Chennai,46995,629554,3.6
+69,Nissan,Kicks,2023,CNG,Automatic,Second,Bengaluru,83703,465096,4.1
+70,Ford,Endeavour,2021,Petrol,Automatic,Third,Kochi,58633,510232,4.3
+71,Renault,Kiger,2015,Petrol,Automatic,Second,Delhi,149003,130409,4.3
+72,Kia,Seltos,2009,Petrol,Automatic,Second,Delhi,186518,210714,4.4
+73,Honda,Civic,2023,Diesel,Manual,Third,Coimbatore,94614,418862,4.1
+74,Honda,Jazz,2023,Diesel,Automatic,First,Pune,72021,757628,4.0
+75,Hyundai,Santro,2018,Petrol,Manual,Second,Kochi,100295,383834,4.0
+76,Hyundai,Santro,2018,Diesel,Manual,First,Delhi,124520,438272,4.0
+77,Mahindra,XUV500,2019,Electric,Manual,First,Bengaluru,103249,368529,3.9
+78,Toyota,Innova,2017,Diesel,Manual,First,Ahmedabad,140167,473133,3.4
+79,Kia,Carens,2009,Electric,Manual,Second,Delhi,197360,82500,4.7
+80,Volkswagen,Taigun,2022,Diesel,Manual,First,Pune,76684,505732,3.9
+81,Ford,Aspire,2023,Diesel,Manual,First,Hyderabad,105896,495614,4.1
+82,Maruti,Celerio,2023,CNG,Automatic,Third,Coimbatore,73617,355167,3.9
+83,Honda,Civic,2013,Petrol,Automatic,First,Pune,159302,337098,4.2
+84,Toyota,Fortuner,2010,Petrol,Manual,First,Bengaluru,203946,231676,3.6
+85,Tata,Tiago,2012,Petrol,Manual,Second,Coimbatore,168650,199674,3.4
+86,Nissan,Magnite,2015,Diesel,Manual,First,Hyderabad,116961,237020,3.8
+87,Mahindra,Thar,2012,Petrol,Manual,Second,Jaipur,152205,120963,3.8
+88,MG,ZS EV,2009,Petrol,Automatic,Third,Pune,170213,78000,4.1
+89,Nissan,Kicks,2010,Diesel,Manual,First,Ahmedabad,164207,73500,3.8
+90,Skoda,Octavia,2010,Electric,Manual,More than Third,Delhi,150451,139513,3.7
+91,MG,Astor,2025,CNG,Manual,First,Delhi,83041,833753,4.8
+92,Kia,Sonet,2021,CNG,Manual,First,Ahmedabad,76552,529568,3.9
+93,Hyundai,Grand i10,2019,CNG,Manual,Second,Kochi,108102,329257,3.8
+94,Toyota,Glanza,2012,Petrol,Manual,Third,Chennai,154166,237083,4.2
+95,Honda,Civic,2025,Diesel,Manual,First,Jaipur,82924,514057,4.0
+96,Honda,Amaze,2010,Petrol,Manual,First,Bengaluru,151195,142415,4.9
+97,Nissan,Magnite,2022,Petrol,Manual,First,Bengaluru,44301,363148,4.0
+98,Honda,City,2016,CNG,Automatic,First,Pune,143299,430482,3.9
+99,Volkswagen,Virtus,2015,Petrol,Manual,Third,Pune,149148,224040,4.5
+100,Skoda,Octavia,2019,Petrol,Automatic,Second,Kochi,101734,502092,4.2
+101,Kia,Carens,2011,CNG,Manual,More than Third,Pune,139907,78000,4.3
+102,Volkswagen,Virtus,2014,Diesel,Manual,Second,Kochi,121211,164525,4.1
+103,Mahindra,Thar,2016,Diesel,Automatic,Third,Mumbai,133347,400400,3.9
+104,Mahindra,XUV300,2025,Petrol,Manual,Third,Mumbai,51535,689985,3.9
+105,Kia,Sonet,2013,Petrol,Manual,Second,Coimbatore,167312,202743,3.8
+106,Tata,Harrier,2012,Diesel,Manual,Second,Coimbatore,167168,110349,4.8
+107,Tata,Punch,2018,Diesel,Automatic,First,Mumbai,104052,546502,5.0
+108,MG,ZS EV,2012,Petrol,Manual,First,Kochi,166456,233387,4.0
+109,Skoda,Superb,2017,CNG,Manual,First,Pune,118495,453905,4.9
+110,Mahindra,Scorpio,2011,Petrol,Automatic,First,Pune,189295,97516,4.7
+111,Maruti,Baleno,2020,Diesel,Manual,First,Chennai,77290,484253,4.6
+112,Tata,Altroz,2016,CNG,Automatic,Second,Bengaluru,135046,200362,4.4
+113,Renault,Duster,2012,Petrol,Automatic,First,Pune,137830,99949,4.1
+114,Mahindra,XUV300,2021,Diesel,Automatic,Second,Chennai,48208,611501,4.3
+115,Mahindra,Bolero,2019,Petrol,Automatic,Second,Hyderabad,120444,388037,4.0
+116,Hyundai,Venue,2023,Petrol,Manual,Second,Bengaluru,101057,579644,3.5
+117,MG,ZS EV,2023,Electric,Automatic,Third,Coimbatore,82885,845578,3.9
+118,MG,ZS EV,2024,CNG,Automatic,Third,Coimbatore,85245,688065,4.0
+119,Renault,Kwid,2009,Electric,Manual,Second,Chennai,146854,148461,3.8
+120,Kia,Seltos,2023,Petrol,Manual,More than Third,Mumbai,2500,519046,3.8
+121,Nissan,Kicks,2024,Diesel,Manual,First,Hyderabad,29848,579852,3.7
+122,Toyota,Innova,2013,Petrol,Manual,First,Kochi,131045,281807,4.3
+123,Nissan,Kicks,2021,Petrol,Manual,Second,Chennai,49422,218131,3.7
+124,Hyundai,Santro,2015,CNG,Manual,First,Jaipur,139505,189008,4.3
+125,Mahindra,Thar,2024,Petrol,Manual,Second,Pune,41679,681372,4.2
+126,Renault,Kiger,2022,Diesel,Manual,Third,Kochi,76297,389831,4.2
+127,Mahindra,Scorpio,2025,Electric,Manual,Third,Bengaluru,58673,620787,4.2
+128,Toyota,Glanza,2022,Diesel,Manual,Second,Coimbatore,73071,776767,4.2
+129,Renault,Kwid,2018,Diesel,Manual,More than Third,Bengaluru,97420,292345,4.7
+130,MG,Hector,2025,Diesel,Manual,Second,Hyderabad,67489,849049,4.2
+131,Kia,Sonet,2022,Electric,Automatic,First,Ahmedabad,101620,732715,4.2
+132,MG,Hector,2022,Petrol,Manual,More than Third,Mumbai,69570,499919,4.4
+133,Mahindra,Bolero,2021,Petrol,Manual,Third,Chennai,106624,408436,4.1
+134,Kia,Sonet,2017,Petrol,Manual,First,Chennai,129795,511800,4.1
+135,Toyota,Fortuner,2016,CNG,Manual,Second,Hyderabad,168149,481961,3.5
+136,Tata,Punch,2014,Petrol,Manual,Third,Ahmedabad,136087,200776,4.1
+137,Hyundai,i20,2010,CNG,Manual,Third,Ahmedabad,192781,98126,4.4
+138,Tata,Tiago,2021,Petrol,Manual,Second,Bengaluru,80947,302298,4.3
+139,Tata,Tiago,2021,Diesel,Manual,First,Mumbai,61366,584016,4.2
+140,Honda,City,2015,Diesel,Automatic,First,Pune,196774,356609,3.5
+141,Maruti,Swift,2021,CNG,Manual,First,Delhi,137584,394572,4.6
+142,Toyota,Innova,2021,Petrol,Automatic,Third,Ahmedabad,118587,602815,3.8
+143,Toyota,Fortuner,2020,Petrol,Manual,Third,Delhi,112198,546760,3.5
+144,Ford,Aspire,2023,CNG,Automatic,Third,Chennai,55225,460601,4.4
+145,Ford,Endeavour,2010,Diesel,Automatic,Second,Hyderabad,157159,75000,4.3
+146,Skoda,Superb,2017,Diesel,Manual,First,Mumbai,118309,519151,3.7
+147,Ford,Figo,2015,Petrol,Automatic,First,Kochi,177436,148169,4.6
+148,Kia,Sonet,2009,Electric,Manual,First,Coimbatore,196938,70500,4.1
+149,Skoda,Kushaq,2019,Diesel,Automatic,First,Hyderabad,88772,620739,4.5
+150,Volkswagen,Taigun,2011,Diesel,Manual,Second,Coimbatore,160866,137478,3.9
+151,Mahindra,Bolero,2021,Petrol,Automatic,Second,Delhi,102629,611572,4.1
+152,Hyundai,Venue,2013,Petrol,Manual,Third,Delhi,123764,248437,3.8
+153,Mahindra,XUV300,2016,Petrol,Automatic,First,Hyderabad,111787,304470,4.3
+154,Maruti,Wagon R,2021,Diesel,Automatic,Second,Mumbai,85154,348791,4.0
+155,Toyota,Innova,2017,CNG,Automatic,First,Hyderabad,102428,636469,5.0
+156,Skoda,Kushaq,2022,Petrol,Manual,First,Kochi,117551,658298,4.8
+157,Maruti,Swift,2013,Petrol,Manual,More than Third,Mumbai,136150,101625,3.7
+158,Honda,Civic,2011,Diesel,Manual,Second,Chennai,185591,159405,3.8
+159,Toyota,Etios,2018,Petrol,Manual,More than Third,Bengaluru,121608,460051,4.5
+160,Renault,Kwid,2017,Petrol,Manual,Second,Hyderabad,112306,209325,4.2
+161,Nissan,Magnite,2011,Petrol,Manual,Second,Jaipur,160170,136649,4.1
+162,Honda,Civic,2024,Petrol,Automatic,First,Pune,54576,784014,3.7
+163,Mahindra,Thar,2019,Petrol,Manual,First,Mumbai,89884,536845,3.8
+164,Renault,Duster,2009,Petrol,Manual,First,Coimbatore,200224,70500,4.1
+165,Tata,Tiago,2017,CNG,Manual,Third,Ahmedabad,127552,247243,3.7
+166,Mahindra,XUV300,2015,Petrol,Manual,Second,Chennai,93763,286532,3.8
+167,Tata,Tiago,2020,Petrol,Manual,First,Pune,85285,445020,4.1
+168,Ford,Figo,2015,CNG,Manual,Third,Pune,117150,123380,4.2
+169,Volkswagen,Polo,2017,Petrol,Manual,Second,Mumbai,168200,254116,3.6
+170,Mahindra,Thar,2019,Petrol,Manual,Second,Chennai,90811,484884,4.0
+171,Renault,Kwid,2023,Petrol,Manual,First,Jaipur,67127,400494,4.2
+172,Tata,Punch,2022,Petrol,Manual,First,Jaipur,55898,353522,4.1
+173,Volkswagen,Polo,2019,Petrol,Automatic,More than Third,Mumbai,142614,250896,4.0
+174,Honda,Jazz,2022,Electric,Manual,First,Hyderabad,71184,644426,4.2
+175,Toyota,Glanza,2014,Petrol,Manual,Second,Pune,122119,394541,3.8
+176,Skoda,Octavia,2022,Petrol,Automatic,First,Jaipur,44815,637745,4.4
+177,Tata,Punch,2016,Diesel,Manual,Second,Mumbai,188300,250279,4.8
+178,Tata,Nexon,2020,CNG,Automatic,Second,Kochi,57140,461327,4.7
+179,Volkswagen,Virtus,2021,Electric,Manual,First,Ahmedabad,83761,624728,4.0
+180,Renault,Duster,2025,Petrol,Manual,First,Jaipur,44199,460148,4.4
+181,Nissan,Kicks,2009,Petrol,Automatic,First,Delhi,133082,164247,4.1
+182,Hyundai,Creta,2011,Petrol,Manual,Second,Mumbai,147356,209132,4.2
+183,Hyundai,Venue,2021,Petrol,Manual,First,Ahmedabad,145129,325088,4.1
+184,Hyundai,Santro,2024,Petrol,Manual,Second,Mumbai,52452,679945,3.9
+185,Renault,Duster,2013,Diesel,Automatic,More than Third,Ahmedabad,112356,73500,3.6
+186,MG,ZS EV,2020,Petrol,Manual,Second,Jaipur,92756,454761,4.6
+187,Hyundai,Verna,2014,Petrol,Automatic,First,Ahmedabad,100813,227257,3.6
+188,Toyota,Corolla,2023,Petrol,Automatic,First,Hyderabad,63955,907309,3.9
+189,Maruti,Baleno,2018,CNG,Manual,First,Coimbatore,61006,315608,3.8
+190,Toyota,Corolla,2020,Petrol,Manual,Third,Ahmedabad,77793,533350,3.9
+191,Maruti,Wagon R,2016,Petrol,Automatic,Third,Pune,147842,269585,4.2
+192,Maruti,Baleno,2019,Diesel,Manual,Third,Bengaluru,72331,305638,3.9
+193,Nissan,Kicks,2020,Petrol,Manual,First,Chennai,35554,298156,4.1
+194,Mahindra,Scorpio,2014,Petrol,Automatic,Second,Delhi,116670,240170,4.4
+195,Volkswagen,Polo,2017,Petrol,Manual,First,Pune,135186,200642,4.2
+196,Hyundai,Grand i10,2011,Petrol,Manual,First,Coimbatore,159749,123885,3.9
+197,Mahindra,Bolero,2016,Diesel,Manual,First,Delhi,124224,201392,4.0
+198,Toyota,Innova,2018,Petrol,Automatic,First,Ahmedabad,120467,509496,3.9
+199,Ford,EcoSport,2017,Diesel,Manual,First,Mumbai,93792,347781,4.5
+200,Volkswagen,Virtus,2014,CNG,Automatic,More than Third,Hyderabad,122901,320186,3.9
+201,Hyundai,Grand i10,2023,Petrol,Manual,Third,Kochi,85855,437363,3.6
+202,Renault,Kwid,2017,Petrol,Manual,Second,Coimbatore,89709,227914,3.7
+203,Mahindra,XUV500,2019,Electric,Automatic,Second,Jaipur,62782,475194,3.5
+204,Honda,City,2015,Petrol,Automatic,Second,Chennai,122541,259900,4.3
+205,Honda,Civic,2013,Petrol,Automatic,Third,Jaipur,165046,69000,3.9
+206,Volkswagen,Virtus,2015,Petrol,Manual,First,Bengaluru,143140,451214,4.1
+207,Mahindra,Scorpio,2013,Electric,Manual,Second,Ahmedabad,145422,164654,5.0
+208,Ford,Aspire,2009,Diesel,Manual,First,Ahmedabad,161831,80554,4.4
+209,Hyundai,Grand i10,2012,Petrol,Manual,First,Jaipur,117704,69000,3.6
+210,Renault,Kiger,2014,Petrol,Manual,First,Chennai,132463,217587,3.8
+211,Volkswagen,Vento,2009,Diesel,Automatic,First,Kochi,212960,72000,4.2
+212,Toyota,Etios,2013,Diesel,Automatic,Second,Pune,134914,257368,3.9
+213,Kia,Sonet,2025,Petrol,Manual,Second,Mumbai,46374,683150,4.0
+214,Skoda,Superb,2012,Diesel,Manual,More than Third,Pune,123046,214181,3.6
+215,Maruti,Alto,2023,Petrol,Manual,First,Coimbatore,37251,324047,4.2
+216,Mahindra,XUV500,2009,Petrol,Automatic,First,Delhi,199336,82500,4.3
+217,Kia,Carens,2018,CNG,Manual,First,Mumbai,118859,435526,4.3
+218,Kia,Seltos,2013,CNG,Manual,Second,Jaipur,152727,147819,3.3
+219,Renault,Kwid,2016,Petrol,Manual,Second,Chennai,119336,177084,4.1
+220,MG,Hector,2022,Petrol,Manual,First,Hyderabad,84695,804951,3.9
+221,Honda,Civic,2013,Petrol,Manual,First,Hyderabad,163554,206280,3.9
+222,Maruti,Alto,2013,Electric,Manual,More than Third,Delhi,118842,82500,3.3
+223,Hyundai,i20,2024,Petrol,Manual,First,Bengaluru,68509,614021,3.8
+224,Nissan,Magnite,2016,Diesel,Manual,First,Jaipur,137416,204982,4.1
+225,Toyota,Etios,2025,Petrol,Manual,First,Ahmedabad,32013,931613,4.4
+226,Nissan,Kicks,2018,Petrol,Manual,First,Jaipur,114854,220654,4.4
+227,Mahindra,Thar,2020,Electric,Automatic,Second,Pune,100208,487183,4.7
+228,Toyota,Corolla,2024,Petrol,Automatic,Second,Chennai,58299,1107479,3.8
+229,Nissan,Magnite,2015,Diesel,Manual,Third,Kochi,79468,217085,4.8
+230,Tata,Harrier,2018,Petrol,Manual,First,Jaipur,100892,306747,5.0
+231,Ford,Endeavour,2018,Petrol,Manual,Third,Ahmedabad,130621,299203,4.0
+232,Maruti,Baleno,2011,Petrol,Manual,Second,Mumbai,144481,84000,3.7
+233,Tata,Nexon,2024,Petrol,Manual,Second,Mumbai,59867,583045,4.9
+234,Tata,Harrier,2010,Diesel,Manual,First,Mumbai,203358,119243,4.2
+235,Mahindra,Bolero,2019,Diesel,Manual,Third,Bengaluru,110924,409806,4.8
+236,Maruti,Swift,2015,Petrol,Automatic,First,Kochi,115389,189442,3.6
+237,Toyota,Etios,2011,Petrol,Manual,Third,Bengaluru,128711,219269,4.5
+238,Volkswagen,Polo,2018,Petrol,Automatic,First,Bengaluru,128764,505022,3.8
+239,Skoda,Rapid,2023,CNG,Manual,More than Third,Kochi,113105,486942,4.0
+240,Hyundai,Santro,2010,Petrol,Manual,Second,Bengaluru,168192,81000,3.9
+241,Mahindra,XUV300,2015,Petrol,Automatic,First,Kochi,136458,266137,4.2
+242,Maruti,Swift,2011,Petrol,Manual,More than Third,Kochi,164903,72000,4.6
+243,Skoda,Octavia,2022,Diesel,Manual,First,Bengaluru,125247,610029,4.3
+244,MG,ZS EV,2023,Diesel,Automatic,Third,Jaipur,93332,695048,4.2
+245,Skoda,Superb,2012,Petrol,Manual,First,Ahmedabad,137582,156710,4.3
+246,Ford,EcoSport,2010,CNG,Manual,First,Ahmedabad,197767,89138,4.5
+247,Honda,Amaze,2010,Diesel,Automatic,Second,Mumbai,175647,123136,4.5
+248,Hyundai,i20,2013,Petrol,Automatic,More than Third,Bengaluru,158007,245967,4.7
+249,Tata,Altroz,2012,Diesel,Automatic,Second,Pune,165179,196510,4.6
+250,Maruti,Alto,2013,Petrol,Manual,First,Ahmedabad,136368,127605,4.5
+251,Renault,Triber,2012,Electric,Manual,Third,Kochi,127707,72000,3.8
+252,Maruti,Baleno,2017,Diesel,Automatic,Second,Coimbatore,130341,266283,4.1
+253,Tata,Tiago,2019,Petrol,Automatic,First,Bengaluru,100308,358569,4.2
+254,Honda,Amaze,2021,Petrol,Manual,First,Mumbai,70896,667661,4.2
+255,Renault,Duster,2020,Diesel,Manual,First,Ahmedabad,108698,389941,4.1
+256,Ford,Aspire,2019,Petrol,Manual,Third,Hyderabad,91145,259805,4.4
+257,Hyundai,Verna,2016,Petrol,Manual,Second,Hyderabad,137531,185395,4.0
+258,Kia,Seltos,2016,Petrol,Manual,First,Ahmedabad,129396,345211,4.5
+259,Kia,Carens,2011,Petrol,Manual,Second,Bengaluru,164356,245100,3.9
+260,Tata,Tiago,2022,CNG,Manual,First,Chennai,90194,435555,3.8
+261,Mahindra,Thar,2012,Diesel,Manual,First,Kochi,85712,170582,4.2
+262,Renault,Duster,2018,Diesel,Manual,Third,Ahmedabad,116729,330270,4.3
+263,Skoda,Rapid,2012,Diesel,Automatic,Second,Pune,145503,155293,4.0
+264,Tata,Harrier,2022,Diesel,Manual,Third,Jaipur,83922,282621,3.7
+265,Renault,Duster,2017,Diesel,Manual,First,Ahmedabad,112180,362277,4.2
+266,Toyota,Innova,2025,Diesel,Manual,Second,Ahmedabad,71964,921040,3.7
+267,MG,ZS EV,2009,Petrol,Automatic,Second,Ahmedabad,161571,121378,3.9
+268,Nissan,Kicks,2017,CNG,Manual,First,Bengaluru,114100,272698,4.9
+269,Maruti,Swift,2023,Diesel,Manual,First,Pune,100919,312594,3.7
+270,Ford,Figo,2010,Diesel,Manual,Second,Bengaluru,183207,81000,4.3
+271,Tata,Nexon,2023,Diesel,Manual,Second,Mumbai,84272,615946,3.3
+272,Nissan,Sunny,2025,Petrol,Manual,First,Hyderabad,30284,331080,4.7
+273,Honda,Amaze,2020,Petrol,Manual,First,Mumbai,92776,504625,4.1
+274,MG,ZS EV,2013,Electric,Manual,First,Jaipur,162339,278723,3.6
+275,Renault,Kiger,2025,Diesel,Manual,Third,Ahmedabad,65783,521771,4.0
+276,Mahindra,Bolero,2012,CNG,Manual,First,Chennai,157160,99271,4.8
+277,Honda,Jazz,2022,Petrol,Manual,First,Jaipur,50400,510512,4.2
+278,MG,Astor,2024,Petrol,Manual,Second,Bengaluru,65792,829059,3.7
+279,Mahindra,Bolero,2014,Petrol,Manual,Second,Ahmedabad,146732,166136,4.1
+280,Mahindra,XUV500,2023,Electric,Automatic,Second,Hyderabad,76276,658397,3.1
+281,Nissan,Sunny,2015,Petrol,Manual,First,Kochi,161410,157640,3.8
+282,Kia,Sonet,2022,CNG,Manual,Second,Coimbatore,108069,599353,4.2
+283,Skoda,Octavia,2015,Diesel,Manual,Third,Pune,163780,302179,4.0
+284,Volkswagen,Polo,2020,Petrol,Manual,Second,Delhi,81941,535337,4.1
+285,Toyota,Innova,2018,Petrol,Manual,First,Chennai,87726,598863,4.3
+286,Honda,Amaze,2023,Diesel,Manual,Second,Kochi,63546,616499,4.6
+287,Honda,Amaze,2019,Petrol,Manual,First,Coimbatore,100592,487529,4.2
+288,Ford,EcoSport,2021,Diesel,Manual,Second,Delhi,102685,429499,4.1
+289,Kia,Seltos,2009,Petrol,Manual,First,Kochi,144286,92591,2.8
+290,Hyundai,Verna,2020,Diesel,Manual,First,Chennai,72410,403612,3.8
+291,Maruti,Swift,2017,Petrol,Manual,First,Hyderabad,139143,151459,4.1
+292,Volkswagen,Polo,2010,Petrol,Manual,First,Mumbai,173756,160323,4.3
+293,MG,Astor,2017,CNG,Manual,First,Hyderabad,121793,463933,4.8
+294,Kia,Seltos,2017,CNG,Automatic,First,Jaipur,83156,328555,4.1
+295,Honda,Jazz,2017,Diesel,Automatic,Second,Kochi,116392,438298,4.1
+296,Kia,Sonet,2022,Petrol,Manual,First,Coimbatore,100386,439221,3.9
+297,Honda,Jazz,2024,Diesel,Manual,Second,Mumbai,73064,694818,4.4
+298,Ford,Figo,2017,Diesel,Automatic,More than Third,Jaipur,104339,211685,4.4
+299,Ford,Figo,2013,Diesel,Automatic,Third,Coimbatore,160234,139142,4.7
+300,Renault,Duster,2012,Electric,Manual,First,Hyderabad,142183,167750,3.2
+301,Kia,Carens,2016,CNG,Manual,First,Hyderabad,139190,431610,4.4
+302,Honda,Jazz,2010,Petrol,Manual,Second,Ahmedabad,150295,157607,4.2
+303,Skoda,Kushaq,2012,Diesel,Manual,First,Coimbatore,133472,134644,4.3
+304,Maruti,Celerio,2022,Petrol,Manual,Second,Delhi,58009,342960,4.5
+305,Volkswagen,Virtus,2011,Diesel,Manual,Third,Coimbatore,176777,177447,3.9
+306,Hyundai,Verna,2022,Electric,Automatic,Third,Ahmedabad,87430,649029,4.1
+307,Tata,Altroz,2014,Petrol,Manual,Second,Kochi,123796,221764,4.4
+308,Mahindra,Bolero,2010,CNG,Manual,First,Chennai,136534,139239,4.5
+309,Skoda,Rapid,2009,Diesel,Manual,Third,Mumbai,144004,84000,3.9
+310,Mahindra,Bolero,2020,Petrol,Automatic,Second,Kochi,94065,463677,4.4
+311,Ford,Endeavour,2025,Petrol,Manual,Second,Chennai,31273,628927,4.8
+312,Tata,Punch,2025,Diesel,Manual,Second,Hyderabad,66259,526192,4.0
+313,Skoda,Kushaq,2025,CNG,Manual,Third,Bengaluru,63080,692258,4.2
+314,Tata,Harrier,2011,Petrol,Manual,First,Jaipur,145198,104495,3.9
+315,Volkswagen,Vento,2018,Diesel,Manual,Second,Ahmedabad,83402,308761,3.6
+316,Skoda,Rapid,2016,Electric,Automatic,First,Pune,140340,358675,4.0
+317,MG,Astor,2025,Petrol,Manual,Second,Bengaluru,56445,892063,4.0
+318,Skoda,Superb,2012,Petrol,Automatic,First,Coimbatore,169184,164673,4.0
+319,Skoda,Octavia,2021,Petrol,Manual,First,Delhi,70985,543051,3.9
+320,Tata,Harrier,2012,Diesel,Manual,First,Kochi,146707,147744,4.8
+321,Ford,Aspire,2022,Petrol,Manual,First,Chennai,39056,430625,3.8
+322,Nissan,Sunny,2024,Petrol,Manual,Second,Bengaluru,76592,488723,4.0
+323,Ford,Figo,2015,Petrol,Manual,Third,Mumbai,111091,276923,4.1
+324,MG,Astor,2009,Diesel,Manual,First,Ahmedabad,135546,73500,4.2
+325,Honda,City,2010,Petrol,Automatic,Second,Hyderabad,145486,277448,3.8
+326,Skoda,Superb,2013,Petrol,Automatic,Second,Delhi,139537,263865,4.2
+327,Maruti,Swift,2023,Petrol,Manual,More than Third,Pune,46862,297463,4.2
+328,Honda,Civic,2018,Petrol,Manual,Third,Pune,120707,390302,4.2
+329,Nissan,Magnite,2011,Petrol,Automatic,Second,Delhi,152936,113024,4.0
+330,Honda,Jazz,2019,Petrol,Manual,First,Delhi,68579,423377,4.3
+331,Honda,Jazz,2024,CNG,Automatic,First,Delhi,49400,791720,4.4
+332,Maruti,Baleno,2016,Diesel,Manual,Second,Hyderabad,112283,177826,4.6
+333,MG,Astor,2019,CNG,Automatic,Second,Ahmedabad,86364,456401,3.9
+334,Nissan,Sunny,2017,Diesel,Manual,First,Chennai,115881,366121,4.2
+335,Hyundai,Venue,2012,Diesel,Manual,First,Delhi,168541,82500,4.4
+336,Volkswagen,Polo,2018,Diesel,Manual,First,Pune,61763,508801,4.4
+337,Maruti,Dzire,2010,Petrol,Manual,First,Coimbatore,216754,75955,4.4
+338,Nissan,Sunny,2015,Diesel,Manual,First,Delhi,124954,172328,4.2
+339,MG,Hector,2018,Diesel,Manual,Second,Jaipur,131141,362278,4.4
+340,Honda,City,2019,Diesel,Automatic,First,Hyderabad,138292,413827,3.5
+341,Maruti,Swift,2013,Petrol,Manual,First,Hyderabad,119992,75000,4.5
+342,Nissan,Magnite,2013,CNG,Manual,Second,Ahmedabad,137643,73500,3.5
+343,Skoda,Rapid,2013,Petrol,Automatic,First,Pune,162014,216635,4.1
+344,Hyundai,Verna,2020,CNG,Manual,First,Jaipur,96915,470097,3.9
+345,Kia,Seltos,2020,Petrol,Manual,First,Jaipur,119198,535714,4.2
+346,Nissan,Sunny,2012,Electric,Manual,First,Chennai,189136,76500,4.3
+347,Ford,Endeavour,2012,Diesel,Manual,First,Kochi,184717,234237,4.5
+348,Tata,Nexon,2024,Petrol,Manual,Third,Coimbatore,87335,306464,4.2
+349,Honda,City,2023,Diesel,Manual,Second,Jaipur,76142,535650,3.7
+350,MG,ZS EV,2009,Diesel,Manual,Second,Bengaluru,163469,215047,4.1
+351,Skoda,Superb,2019,Electric,Manual,Second,Pune,86551,674392,4.5
+352,Hyundai,Venue,2025,Petrol,Manual,First,Hyderabad,55451,630308,3.6
+353,Kia,Sonet,2011,Petrol,Manual,First,Bengaluru,143467,269098,3.8
+354,Toyota,Fortuner,2021,Petrol,Automatic,First,Jaipur,82011,845131,4.4
+355,MG,Astor,2021,Petrol,Manual,More than Third,Ahmedabad,74715,447647,4.0
+356,Nissan,Sunny,2013,Petrol,Manual,First,Delhi,163305,82500,4.3
+357,Volkswagen,Vento,2011,Petrol,Manual,First,Ahmedabad,178082,154743,4.2
+358,Volkswagen,Polo,2013,Diesel,Manual,More than Third,Delhi,108132,237952,4.7
+359,Maruti,Swift,2009,Petrol,Manual,First,Jaipur,198980,69000,3.9
+360,Kia,Sonet,2024,CNG,Manual,More than Third,Bengaluru,45580,587210,3.8
+361,Hyundai,Venue,2019,Petrol,Manual,First,Jaipur,59217,229908,3.8
+362,Honda,Amaze,2024,Diesel,Manual,First,Jaipur,62554,700557,4.9
+363,Ford,EcoSport,2019,Diesel,Manual,Second,Mumbai,115353,419299,4.9
+364,Renault,Kiger,2014,Diesel,Automatic,First,Ahmedabad,127866,324317,4.6
+365,Volkswagen,Taigun,2023,Electric,Manual,First,Delhi,67744,777632,4.2
+366,Toyota,Etios,2014,Petrol,Manual,Third,Hyderabad,136875,354871,4.2
+367,Skoda,Octavia,2022,Diesel,Automatic,More than Third,Chennai,91572,579751,4.1
+368,Hyundai,Grand i10,2022,Petrol,Manual,First,Jaipur,57973,518438,4.4
+369,Renault,Triber,2021,Petrol,Automatic,Third,Coimbatore,100964,278227,4.5
+370,Hyundai,Venue,2022,Diesel,Manual,More than Third,Mumbai,95894,588474,4.3
+371,Nissan,Kicks,2023,Petrol,Manual,Third,Ahmedabad,45498,399655,3.6
+372,Kia,Sonet,2013,CNG,Manual,Second,Delhi,158870,357058,4.3
+373,Toyota,Innova,2018,Petrol,Manual,First,Chennai,81970,633645,3.9
+374,Volkswagen,Taigun,2014,Petrol,Manual,First,Kochi,126110,128997,4.1
+375,MG,Astor,2019,Petrol,Manual,More than Third,Mumbai,106178,531975,4.5
+376,Mahindra,Thar,2013,Diesel,Manual,More than Third,Ahmedabad,145953,199585,4.5
+377,Nissan,Sunny,2009,Petrol,Manual,Second,Hyderabad,173889,75000,4.1
+378,MG,Hector,2013,Petrol,Manual,Third,Mumbai,119031,306063,4.9
+379,Tata,Nexon,2018,Diesel,Manual,Third,Kochi,91868,310977,4.2
+380,Hyundai,Creta,2009,Petrol,Automatic,Second,Hyderabad,144218,134715,4.1
+381,Hyundai,Santro,2023,Petrol,Manual,Third,Coimbatore,81665,389221,4.1
+382,Maruti,Alto,2023,CNG,Manual,Second,Bengaluru,59556,516951,4.2
+383,Ford,Figo,2023,Electric,Manual,Second,Pune,57531,561565,4.3
+384,Mahindra,XUV300,2014,Petrol,Manual,First,Pune,150133,234764,4.1
+385,Toyota,Innova,2025,Petrol,Automatic,First,Kochi,22641,1044104,3.5
+386,Mahindra,Bolero,2014,CNG,Manual,Second,Mumbai,136385,297465,4.8
+387,Honda,Amaze,2009,Petrol,Manual,First,Mumbai,148955,84000,4.7
+388,Renault,Kwid,2019,Petrol,Manual,First,Pune,91965,353671,4.2
+389,Renault,Triber,2019,Petrol,Automatic,First,Ahmedabad,71762,339803,4.7
+390,Hyundai,i20,2010,Petrol,Manual,Second,Chennai,183505,200714,4.3
+391,Maruti,Celerio,2018,Petrol,Manual,Second,Pune,87731,292354,4.1
+392,Skoda,Octavia,2016,Petrol,Manual,Third,Hyderabad,127353,371107,5.0
+393,Maruti,Dzire,2017,Diesel,Manual,First,Bengaluru,121858,240763,4.4
+394,Renault,Triber,2024,Petrol,Automatic,More than Third,Jaipur,69015,364502,4.0
+395,Maruti,Dzire,2023,Diesel,Manual,First,Hyderabad,61340,418800,3.7
+396,Ford,Endeavour,2013,CNG,Manual,First,Mumbai,159763,203510,4.2
+397,Mahindra,XUV300,2015,Petrol,Manual,First,Jaipur,81045,251475,4.6
+398,Mahindra,Thar,2025,Petrol,Manual,More than Third,Ahmedabad,67415,441592,4.0
+399,MG,ZS EV,2022,CNG,Manual,First,Bengaluru,91194,708188,4.4
+400,Tata,Punch,2023,Petrol,Manual,Second,Mumbai,34133,544348,4.4
+401,Ford,Figo,2024,Petrol,Manual,First,Pune,21728,596263,3.9
+402,Ford,Figo,2013,Petrol,Automatic,First,Chennai,131184,147144,4.1
+403,Maruti,Wagon R,2020,Diesel,Manual,Second,Hyderabad,103126,287337,3.8
+404,Ford,Aspire,2017,Petrol,Manual,First,Pune,116497,290605,4.2
+405,Honda,Amaze,2011,Diesel,Automatic,First,Jaipur,103088,219556,4.3
+406,Nissan,Kicks,2025,Electric,Automatic,Second,Ahmedabad,44953,579017,4.8
+407,Hyundai,Grand i10,2022,Diesel,Manual,First,Hyderabad,60607,512937,4.4
+408,Kia,Sonet,2009,Electric,Manual,Third,Bengaluru,158345,126382,3.7
+409,Kia,Seltos,2014,Petrol,Manual,Second,Ahmedabad,146491,176135,3.4
+410,Hyundai,Grand i10,2015,Petrol,Automatic,First,Bengaluru,112592,250424,3.7
+411,Ford,Figo,2025,Diesel,Manual,Third,Kochi,58649,443026,4.7
+412,Hyundai,Venue,2014,Petrol,Manual,First,Jaipur,127526,205231,4.2
+413,Kia,Carens,2022,Petrol,Manual,More than Third,Delhi,53539,586029,4.5
+414,Tata,Tiago,2012,Electric,Manual,First,Hyderabad,153200,215795,4.3
+415,Mahindra,Scorpio,2010,Diesel,Manual,Second,Kochi,128089,147697,3.1
+416,Renault,Duster,2010,Diesel,Manual,Second,Jaipur,167752,69000,3.4
+417,MG,Hector,2015,Petrol,Manual,First,Delhi,111117,288651,4.2
+418,Honda,City,2022,Petrol,Automatic,Second,Hyderabad,69103,486739,3.5
+419,Skoda,Kushaq,2010,Diesel,Manual,Second,Kochi,145849,195054,4.0
+420,Mahindra,XUV300,2023,Petrol,Manual,Third,Ahmedabad,85509,549966,4.2
+421,Toyota,Innova,2012,Petrol,Manual,More than Third,Delhi,145637,241182,4.5
+422,Hyundai,i20,2010,Diesel,Manual,First,Bengaluru,187332,81000,3.8
+423,Ford,EcoSport,2025,Petrol,Automatic,First,Chennai,43057,727997,4.4
+424,Nissan,Magnite,2023,CNG,Manual,Third,Hyderabad,46579,366310,4.4
+425,Renault,Triber,2019,Diesel,Manual,First,Bengaluru,107708,403403,4.2
+426,Maruti,Baleno,2009,Electric,Automatic,Third,Pune,183133,78000,4.5
+427,Toyota,Etios,2015,Petrol,Manual,First,Chennai,135217,432361,4.4
+428,Hyundai,Creta,2019,Diesel,Manual,Third,Pune,120438,421791,3.2
+429,Renault,Kiger,2023,CNG,Manual,Second,Bengaluru,114326,263620,3.8
+430,Volkswagen,Taigun,2023,Electric,Manual,First,Delhi,102163,739121,4.6
+431,Kia,Seltos,2015,Petrol,Manual,Second,Chennai,161893,249861,4.7
+432,Volkswagen,Vento,2016,CNG,Manual,First,Mumbai,113424,300449,4.0
+433,MG,ZS EV,2017,CNG,Automatic,Third,Pune,94520,416721,3.7
+434,Honda,Amaze,2022,Electric,Manual,Second,Ahmedabad,71917,551694,3.7
+435,Volkswagen,Vento,2024,Diesel,Manual,Second,Bengaluru,79871,659382,3.7
+436,Nissan,Magnite,2015,Petrol,Manual,Second,Chennai,183858,133758,4.3
+437,Toyota,Corolla,2025,Petrol,Automatic,First,Ahmedabad,90069,990217,3.2
+438,Nissan,Kicks,2023,Diesel,Manual,First,Hyderabad,102306,604820,4.5
+439,Honda,Amaze,2012,Petrol,Manual,Second,Pune,117685,255065,4.2
+440,Kia,Carens,2021,Petrol,Manual,First,Bengaluru,96625,553499,3.6
+441,Honda,City,2018,Petrol,Automatic,Second,Ahmedabad,89941,386849,4.3
+442,Ford,Aspire,2011,Diesel,Manual,Third,Kochi,123609,72000,4.1
+443,Mahindra,XUV300,2017,Petrol,Automatic,First,Coimbatore,126335,381939,3.9
+444,Skoda,Octavia,2017,Diesel,Automatic,Third,Jaipur,112945,384180,4.0
+445,Kia,Seltos,2009,Petrol,Manual,First,Kochi,130361,84088,4.2
+446,Nissan,Sunny,2009,Diesel,Manual,First,Hyderabad,170531,75000,4.2
+447,MG,ZS EV,2010,Petrol,Manual,First,Delhi,168844,230954,3.8
+448,Renault,Duster,2012,Petrol,Automatic,First,Pune,159086,99846,3.7
+449,Ford,EcoSport,2013,Petrol,Automatic,Second,Kochi,168939,173253,4.3
+450,Maruti,Swift,2024,Petrol,Manual,First,Bengaluru,87000,530191,3.9
+451,Volkswagen,Taigun,2019,CNG,Manual,First,Chennai,47208,442617,3.9
+452,Volkswagen,Polo,2025,Petrol,Automatic,First,Jaipur,39710,786359,4.0
+453,MG,Astor,2024,Petrol,Manual,First,Hyderabad,53822,859200,4.1
+454,Renault,Triber,2010,Electric,Manual,First,Mumbai,149385,245864,3.7
+455,Toyota,Glanza,2021,Petrol,Manual,First,Coimbatore,96808,700132,4.7
+456,Kia,Seltos,2025,Petrol,Manual,First,Delhi,31867,874172,4.0
+457,Renault,Kwid,2013,Petrol,Manual,First,Kochi,111022,144930,4.0
+458,MG,Hector,2017,Diesel,Manual,First,Coimbatore,122312,416861,4.0
+459,Hyundai,Venue,2018,Petrol,Manual,Third,Ahmedabad,136104,392617,4.5
+460,Honda,Amaze,2025,Diesel,Manual,Third,Jaipur,64791,509464,3.9
+461,Honda,Amaze,2012,Petrol,Automatic,First,Delhi,173084,261992,4.1
+462,Hyundai,i20,2015,Petrol,Automatic,Second,Jaipur,155273,160832,3.7
+463,Ford,Figo,2019,Petrol,Manual,Third,Hyderabad,73132,342326,4.1
+464,Honda,Civic,2014,Petrol,Automatic,Second,Kochi,138577,278351,4.4
+465,Toyota,Etios,2023,Electric,Manual,Third,Ahmedabad,31740,902343,4.6
+466,Maruti,Celerio,2020,Diesel,Manual,Second,Hyderabad,95856,327681,5.0
+467,Skoda,Superb,2023,Diesel,Automatic,Second,Coimbatore,50116,701150,4.0
+468,Maruti,Dzire,2014,CNG,Automatic,Third,Coimbatore,145082,106478,4.1
+469,Ford,Figo,2021,Petrol,Manual,Third,Ahmedabad,76043,407832,4.4
+470,Honda,Civic,2023,Diesel,Manual,First,Jaipur,103021,608434,3.9
+471,Kia,Sonet,2010,Petrol,Manual,Third,Chennai,168304,99997,3.9
+472,Kia,Seltos,2021,CNG,Manual,Second,Delhi,113847,506475,4.1
+473,Mahindra,Scorpio,2009,Diesel,Manual,Second,Coimbatore,171693,70500,4.2
+474,Honda,Civic,2018,Electric,Automatic,Third,Chennai,148825,485094,4.0
+475,Maruti,Alto,2009,Petrol,Manual,First,Mumbai,139633,84000,4.8
+476,Honda,City,2010,Petrol,Manual,More than Third,Mumbai,158146,84000,3.6
+477,Hyundai,Santro,2016,Petrol,Manual,Second,Delhi,119872,251900,4.5
+478,Honda,Civic,2016,Diesel,Automatic,Third,Coimbatore,116788,364843,3.9
+479,Volkswagen,Taigun,2011,CNG,Manual,Third,Pune,197257,225015,3.9
+480,Toyota,Fortuner,2014,Diesel,Manual,First,Kochi,136267,448702,4.3
+481,Toyota,Innova,2025,Petrol,Manual,First,Ahmedabad,77769,942248,3.8
+482,Maruti,Wagon R,2021,CNG,Manual,First,Kochi,86046,409342,5.0
+483,Skoda,Rapid,2016,Petrol,Manual,Third,Pune,158093,321626,4.5
+484,Mahindra,Thar,2012,Diesel,Automatic,First,Coimbatore,172334,268575,4.3
+485,Nissan,Kicks,2017,Diesel,Automatic,Second,Delhi,155526,282740,4.4
+486,Ford,Figo,2018,Petrol,Manual,Second,Kochi,122798,254660,4.2
+487,Volkswagen,Taigun,2017,Diesel,Manual,More than Third,Chennai,123198,330252,4.0
+488,Nissan,Sunny,2017,Petrol,Manual,Third,Coimbatore,121523,171774,3.8
+489,Mahindra,XUV300,2021,Petrol,Manual,Second,Hyderabad,125823,398916,4.5
+490,Ford,Figo,2009,Petrol,Manual,First,Hyderabad,163346,75000,3.9
+491,Nissan,Kicks,2020,CNG,Manual,Second,Ahmedabad,75616,269967,4.2
+492,Toyota,Fortuner,2014,Petrol,Manual,Second,Delhi,101152,401949,4.0
+493,Tata,Nexon,2015,Diesel,Manual,First,Hyderabad,101610,168494,3.8
+494,Kia,Carens,2011,CNG,Automatic,First,Bengaluru,161922,215069,4.0
+495,Nissan,Kicks,2011,Diesel,Manual,First,Mumbai,129142,84000,4.5
+496,Renault,Duster,2025,Petrol,Automatic,First,Hyderabad,39576,516586,3.8
+497,Kia,Sonet,2019,Petrol,Manual,First,Pune,149299,494127,3.9
+498,Skoda,Superb,2018,Petrol,Automatic,Third,Pune,124574,320323,4.2
+499,Kia,Sonet,2012,Diesel,Manual,First,Hyderabad,130559,75000,4.1
+500,MG,Astor,2021,Diesel,Automatic,Second,Mumbai,39576,949158,4.3
+501,Toyota,Glanza,2021,Petrol,Manual,First,Delhi,83435,755591,4.0
+502,MG,ZS EV,2025,Petrol,Manual,First,Mumbai,49730,958709,4.4
+503,Toyota,Corolla,2013,Diesel,Automatic,Third,Delhi,159529,327890,3.8
+504,Kia,Seltos,2023,Diesel,Automatic,First,Bengaluru,32514,810126,4.8
+505,MG,Hector,2019,Electric,Automatic,First,Kochi,108847,733597,3.8
+506,Ford,Figo,2022,CNG,Manual,Second,Coimbatore,77027,383837,4.3
+507,MG,Hector,2019,Petrol,Manual,Second,Coimbatore,75437,488554,3.4
+508,MG,ZS EV,2011,Petrol,Automatic,First,Pune,148769,234476,4.0
+509,Maruti,Wagon R,2015,CNG,Automatic,First,Delhi,124846,197561,4.6
+510,Ford,EcoSport,2021,CNG,Automatic,Second,Jaipur,91092,317262,4.2
+511,Tata,Punch,2011,Petrol,Manual,More than Third,Coimbatore,182244,93661,4.0
+512,Tata,Tiago,2013,Electric,Manual,First,Pune,122882,233511,4.0
+513,Nissan,Magnite,2019,Petrol,Automatic,First,Jaipur,106365,276252,3.9
+514,Honda,City,2016,CNG,Manual,Second,Bengaluru,98596,335241,5.0
+515,Maruti,Swift,2023,Petrol,Manual,First,Delhi,68849,402425,4.3
+516,Kia,Sonet,2017,Diesel,Automatic,First,Jaipur,137545,391383,4.7
+517,MG,ZS EV,2025,Petrol,Manual,Second,Jaipur,94229,664657,4.7
+518,Toyota,Fortuner,2025,Petrol,Automatic,Third,Delhi,51989,995892,4.6
+519,MG,Hector,2024,Petrol,Manual,First,Pune,112872,818017,3.8
+520,Honda,Jazz,2023,CNG,Manual,Second,Jaipur,95869,520472,4.3
+521,Ford,Aspire,2023,Petrol,Automatic,Second,Pune,84698,385367,4.2
+522,Volkswagen,Polo,2020,Petrol,Manual,Second,Pune,88905,348492,3.6
+523,Volkswagen,Taigun,2023,Petrol,Manual,First,Delhi,17433,584266,3.8
+524,MG,Astor,2017,Electric,Manual,Second,Hyderabad,100643,561601,3.8
+525,Tata,Punch,2025,Petrol,Manual,Second,Hyderabad,56130,460622,3.9
+526,Mahindra,Bolero,2009,Petrol,Manual,Third,Chennai,154841,90127,4.5
+527,Kia,Seltos,2013,Petrol,Automatic,First,Ahmedabad,154697,306331,3.9
+528,Nissan,Sunny,2024,Petrol,Manual,First,Jaipur,75536,420749,3.5
+529,Maruti,Alto,2018,Diesel,Manual,First,Delhi,106622,405026,4.9
+530,Mahindra,Bolero,2025,Diesel,Manual,Second,Hyderabad,47060,586269,4.4
+531,Toyota,Fortuner,2018,Petrol,Automatic,First,Jaipur,107740,586314,4.0
+532,Mahindra,XUV500,2010,CNG,Manual,First,Hyderabad,201896,109942,4.8
+533,Volkswagen,Polo,2012,Petrol,Manual,First,Delhi,124669,135140,4.3
+534,Honda,Amaze,2010,Petrol,Manual,First,Hyderabad,176031,92202,3.9
+535,Mahindra,Bolero,2021,Petrol,Manual,First,Coimbatore,122557,482727,4.4
+536,Volkswagen,Virtus,2020,CNG,Automatic,Second,Bengaluru,83348,454579,3.5
+537,Honda,Jazz,2010,Petrol,Manual,First,Chennai,181280,100123,4.2
+538,Honda,Jazz,2024,Diesel,Manual,Second,Jaipur,86680,568064,4.1
+539,Skoda,Kushaq,2017,Petrol,Manual,First,Kochi,114190,433587,3.8
+540,Mahindra,XUV300,2025,Electric,Manual,First,Kochi,46105,762525,4.6
+541,Toyota,Glanza,2017,CNG,Manual,Third,Chennai,65238,454757,4.0
+542,Honda,City,2018,CNG,Manual,First,Mumbai,113000,393752,4.3
+543,Nissan,Kicks,2020,Petrol,Automatic,First,Mumbai,83062,338597,4.4
+544,Hyundai,Verna,2009,Petrol,Manual,First,Jaipur,196244,69000,4.1
+545,Skoda,Superb,2024,Petrol,Manual,First,Bengaluru,33470,711974,3.9
+546,Toyota,Corolla,2022,Electric,Automatic,First,Mumbai,42970,1208278,3.7
+547,Ford,Endeavour,2017,Electric,Manual,Third,Kochi,104339,212351,4.3
+548,Nissan,Magnite,2022,Electric,Manual,More than Third,Ahmedabad,88297,357086,3.9
+549,Toyota,Etios,2018,Petrol,Manual,More than Third,Ahmedabad,115993,413537,3.9
+550,Renault,Kwid,2016,Diesel,Manual,First,Delhi,143628,295616,4.2
+551,Skoda,Rapid,2021,Diesel,Manual,Second,Hyderabad,78316,511967,3.8
+552,Honda,Amaze,2019,Diesel,Automatic,Second,Bengaluru,93057,526478,4.5
+553,Maruti,Wagon R,2017,Diesel,Manual,First,Pune,114005,340034,4.3
+554,Honda,Amaze,2013,Diesel,Automatic,More than Third,Bengaluru,153650,142020,4.0
+555,Maruti,Swift,2016,Diesel,Automatic,Second,Delhi,96314,251808,3.7
+556,Toyota,Glanza,2010,Diesel,Manual,Third,Hyderabad,204042,144445,4.5
+557,Tata,Harrier,2020,Petrol,Manual,First,Coimbatore,112942,268421,4.6
+558,Nissan,Sunny,2021,Petrol,Manual,Third,Hyderabad,96337,381642,4.0
+559,Maruti,Dzire,2018,Petrol,Manual,First,Hyderabad,123333,340207,4.0
+560,Renault,Kiger,2013,Petrol,Manual,Third,Kochi,127213,245619,4.0
+561,Hyundai,Santro,2019,Diesel,Manual,First,Mumbai,160417,356808,3.7
+562,Hyundai,Santro,2011,Diesel,Manual,First,Mumbai,173655,134119,3.9
+563,Skoda,Rapid,2014,CNG,Manual,Second,Coimbatore,146496,109399,4.8
+564,Renault,Kwid,2023,Petrol,Manual,Third,Coimbatore,54366,274018,3.5
+565,Volkswagen,Virtus,2009,Diesel,Manual,Second,Mumbai,172249,186826,3.9
+566,Kia,Seltos,2019,Petrol,Manual,Second,Coimbatore,101628,486976,3.9
+567,Volkswagen,Virtus,2021,Petrol,Automatic,First,Pune,104254,462298,3.9
+568,Volkswagen,Virtus,2019,Petrol,Manual,First,Hyderabad,83093,307188,5.0
+569,Mahindra,Thar,2009,Petrol,Manual,Second,Pune,165972,78000,3.9
+570,Hyundai,Creta,2013,CNG,Manual,Second,Coimbatore,146843,198368,4.5
+571,MG,Hector,2017,Petrol,Automatic,Second,Delhi,128519,528422,4.6
+572,Hyundai,Venue,2017,Petrol,Manual,First,Ahmedabad,77861,306311,4.4
+573,MG,ZS EV,2019,Petrol,Manual,Second,Delhi,68116,512802,3.1
+574,Honda,City,2025,CNG,Manual,First,Chennai,70417,648450,4.0
+575,Honda,Civic,2009,Petrol,Manual,First,Delhi,185410,82500,4.3
+576,Skoda,Kushaq,2022,Diesel,Manual,First,Ahmedabad,76352,638674,4.5
+577,Skoda,Superb,2024,Diesel,Manual,Second,Hyderabad,60547,809325,4.3
+578,MG,ZS EV,2020,Petrol,Manual,First,Kochi,109616,578281,3.2
+579,Mahindra,XUV300,2021,Diesel,Manual,Third,Hyderabad,136458,394748,3.9
+580,Mahindra,XUV500,2013,Petrol,Manual,Third,Mumbai,137989,193420,4.6
+581,Tata,Altroz,2009,CNG,Manual,First,Hyderabad,167246,123662,3.4
+582,Mahindra,XUV500,2012,Petrol,Manual,First,Pune,152824,187330,4.7
+583,Toyota,Corolla,2023,Petrol,Automatic,First,Chennai,133689,878938,3.7
+584,MG,Astor,2009,Petrol,Manual,Second,Jaipur,192347,69000,3.6
+585,Honda,Jazz,2024,Petrol,Manual,Second,Ahmedabad,26238,550403,4.2
+586,Ford,Figo,2018,Petrol,Manual,Second,Pune,117434,326068,4.2
+587,Maruti,Dzire,2015,Petrol,Automatic,First,Bengaluru,134045,183288,4.9
+588,Ford,Figo,2023,Petrol,Manual,First,Jaipur,88015,469797,4.8
+589,Renault,Triber,2020,Diesel,Manual,First,Mumbai,99844,348734,4.2
+590,Volkswagen,Taigun,2021,Diesel,Automatic,First,Chennai,87980,595808,3.7
+591,Maruti,Alto,2024,CNG,Manual,First,Mumbai,6255,499556,4.0
+592,Nissan,Magnite,2019,Diesel,Automatic,First,Pune,76893,415893,3.5
+593,Skoda,Rapid,2010,Diesel,Automatic,First,Chennai,156259,245918,4.3
+594,Mahindra,Thar,2009,Petrol,Automatic,First,Coimbatore,140610,70500,4.2
+595,Hyundai,Santro,2014,Petrol,Automatic,First,Ahmedabad,124850,176905,4.6
+596,Mahindra,Bolero,2012,Diesel,Manual,First,Chennai,145385,302303,4.3
+597,Kia,Carens,2017,Petrol,Manual,Second,Coimbatore,90475,280275,3.7
+598,Honda,Amaze,2014,Petrol,Automatic,Second,Hyderabad,121392,234942,4.7
+599,Honda,Civic,2019,CNG,Manual,Second,Hyderabad,72117,473599,3.6
+600,Hyundai,Venue,2022,Petrol,Automatic,Second,Pune,60309,630376,4.0
+601,Honda,Jazz,2013,Petrol,Manual,Third,Pune,146869,109614,4.6
+602,Nissan,Sunny,2015,Petrol,Manual,Third,Delhi,134715,151160,4.9
+603,Hyundai,Verna,2014,CNG,Manual,Second,Hyderabad,135385,234013,3.9
+604,Tata,Tiago,2020,Petrol,Manual,More than Third,Coimbatore,133371,181582,3.8
+605,Tata,Nexon,2015,Petrol,Manual,Third,Bengaluru,142848,286791,4.3
+606,Hyundai,Venue,2011,CNG,Manual,First,Mumbai,171961,99580,4.3
+607,Renault,Duster,2010,Petrol,Automatic,First,Ahmedabad,150424,73500,3.7
+608,Mahindra,Thar,2018,Petrol,Manual,Second,Ahmedabad,125066,434888,4.1
+609,Honda,Jazz,2024,Diesel,Manual,First,Chennai,5496,749932,4.9
+610,Toyota,Corolla,2014,Petrol,Automatic,First,Kochi,162255,332988,4.2
+611,Renault,Kwid,2023,CNG,Manual,First,Jaipur,66380,467571,4.2
+612,Honda,Jazz,2009,Electric,Manual,First,Chennai,230000,76500,3.9
+613,Skoda,Octavia,2020,Electric,Automatic,Second,Delhi,107054,702860,4.3
+614,Maruti,Baleno,2022,Electric,Manual,First,Coimbatore,93929,421124,3.9
+615,Mahindra,XUV300,2016,CNG,Manual,First,Kochi,94696,203238,3.9
+616,MG,Hector,2024,Petrol,Manual,Second,Delhi,51858,780610,3.9
+617,Honda,Civic,2025,Diesel,Manual,More than Third,Mumbai,64886,754364,4.1
+618,Honda,City,2022,Diesel,Manual,Second,Ahmedabad,97095,594485,4.2
+619,Skoda,Kushaq,2009,CNG,Manual,Third,Hyderabad,137500,75000,3.7
+620,Honda,Civic,2019,Petrol,Automatic,Second,Mumbai,65790,530905,4.0
+621,Mahindra,XUV300,2017,Petrol,Automatic,First,Pune,105050,320040,4.0
+622,Honda,Civic,2015,Petrol,Manual,Second,Jaipur,129391,283709,4.2
+623,Tata,Nexon,2010,Petrol,Manual,First,Hyderabad,144263,75000,4.9
+624,Ford,Aspire,2010,CNG,Manual,First,Pune,172289,78000,4.5
+625,Volkswagen,Polo,2018,Petrol,Automatic,Second,Chennai,106355,374652,3.8
+626,Volkswagen,Taigun,2013,Petrol,Manual,Second,Kochi,78472,171828,3.8
+627,Mahindra,Thar,2018,Petrol,Manual,Second,Mumbai,90754,463033,4.3
+628,Hyundai,i20,2013,Petrol,Manual,Second,Bengaluru,129977,123702,3.7
+629,Renault,Triber,2021,Petrol,Manual,First,Chennai,98943,498656,3.6
+630,MG,Astor,2025,Petrol,Manual,Second,Pune,53457,892106,3.5
+631,Nissan,Magnite,2018,Electric,Manual,First,Delhi,99218,422498,4.7
+632,Mahindra,Scorpio,2025,CNG,Automatic,Third,Chennai,72215,634568,4.4
+633,Maruti,Wagon R,2022,Petrol,Manual,First,Ahmedabad,82388,416670,3.7
+634,MG,Astor,2012,Petrol,Manual,Second,Hyderabad,120850,313597,4.3
+635,Mahindra,Thar,2025,CNG,Automatic,First,Chennai,93551,709950,4.5
+636,Nissan,Magnite,2011,CNG,Automatic,Second,Mumbai,176030,84000,4.8
+637,Toyota,Glanza,2012,Diesel,Manual,First,Chennai,139473,248625,4.8
+638,Nissan,Sunny,2013,CNG,Automatic,First,Delhi,196042,109580,4.1
+639,Hyundai,Venue,2020,Diesel,Manual,First,Mumbai,39071,426790,4.6
+640,MG,Astor,2017,Petrol,Manual,First,Pune,128910,407444,4.2
+641,Kia,Sonet,2017,Petrol,Manual,First,Coimbatore,117338,329397,4.7
+642,Maruti,Wagon R,2020,Petrol,Manual,First,Kochi,96948,235884,4.5
+643,Nissan,Sunny,2018,Electric,Manual,Third,Ahmedabad,114865,205248,3.8
+644,Mahindra,XUV500,2025,Petrol,Automatic,First,Chennai,45523,789584,3.9
+645,Renault,Kwid,2014,Diesel,Manual,Third,Hyderabad,159222,227926,4.0
+646,MG,Astor,2024,Diesel,Automatic,First,Chennai,20386,1014809,3.9
+647,Skoda,Superb,2016,Petrol,Automatic,First,Ahmedabad,155717,381473,4.5
+648,Maruti,Dzire,2018,Petrol,Automatic,Third,Ahmedabad,102491,316361,4.2
+649,Maruti,Alto,2012,Petrol,Manual,Third,Ahmedabad,147763,138704,3.9
+650,Nissan,Kicks,2011,CNG,Automatic,Second,Jaipur,186854,69000,4.2
+651,Tata,Harrier,2019,Petrol,Automatic,First,Jaipur,65321,362412,4.0
+652,Ford,Endeavour,2025,Petrol,Manual,First,Bengaluru,31687,778590,4.0
+653,Toyota,Innova,2013,Petrol,Automatic,Third,Coimbatore,167967,167416,4.2
+654,Honda,City,2017,Petrol,Manual,Second,Hyderabad,93308,410326,4.5
+655,MG,Astor,2023,Petrol,Manual,Third,Hyderabad,83754,691272,3.7
+656,Skoda,Kushaq,2009,Petrol,Manual,Third,Ahmedabad,180243,80972,4.3
+657,Nissan,Kicks,2024,CNG,Automatic,First,Hyderabad,86630,651570,3.9
+658,MG,ZS EV,2016,Diesel,Manual,First,Bengaluru,136688,490652,4.3
+659,Honda,Jazz,2025,Diesel,Manual,First,Delhi,29065,922690,4.6
+660,Kia,Sonet,2018,CNG,Manual,Second,Kochi,113807,434559,4.2
+661,Renault,Kwid,2012,Petrol,Automatic,First,Chennai,162293,76500,4.1
+662,Tata,Altroz,2021,Petrol,Manual,First,Jaipur,113750,376786,4.0
+663,Ford,Endeavour,2020,Diesel,Manual,First,Pune,129435,451182,3.9
+664,Nissan,Kicks,2019,Diesel,Automatic,Second,Kochi,84364,352390,4.1
+665,Kia,Seltos,2009,Petrol,Manual,Second,Coimbatore,174865,144827,3.8
+666,Renault,Kwid,2010,Petrol,Manual,Second,Pune,196660,78000,3.8
+667,Skoda,Kushaq,2023,Petrol,Manual,Second,Chennai,87176,569778,3.5
+668,Tata,Tiago,2023,Petrol,Manual,First,Delhi,114475,527233,4.1
+669,Hyundai,Verna,2009,Petrol,Manual,First,Delhi,181395,181092,4.5
+670,Mahindra,Thar,2022,CNG,Manual,Third,Chennai,58241,342938,4.6
+671,Honda,Amaze,2019,Diesel,Manual,Third,Chennai,105920,247757,3.5
+672,Mahindra,XUV300,2014,Petrol,Automatic,First,Chennai,141522,217674,4.3
+673,MG,Hector,2022,Diesel,Manual,First,Pune,67455,821782,4.2
+674,Maruti,Swift,2025,Diesel,Manual,First,Kochi,56702,477437,4.8
+675,Skoda,Kushaq,2018,Petrol,Automatic,First,Bengaluru,117106,422517,4.5
+676,Renault,Kwid,2011,Diesel,Manual,First,Ahmedabad,158160,73500,3.9
+677,MG,Hector,2022,Electric,Manual,Second,Coimbatore,109303,729852,4.0
+678,Kia,Seltos,2017,Petrol,Automatic,First,Chennai,130169,395954,3.7
+679,Renault,Kiger,2020,Electric,Manual,First,Coimbatore,108032,412286,3.6
+680,Mahindra,XUV300,2010,Diesel,Automatic,Second,Pune,136310,121137,4.7
+681,Renault,Kiger,2021,Petrol,Manual,Second,Delhi,69348,391792,3.7
+682,Renault,Kwid,2020,Petrol,Manual,Second,Pune,125980,289978,4.3
+683,Kia,Seltos,2025,Petrol,Manual,First,Delhi,55726,873157,4.5
+684,Skoda,Superb,2011,Petrol,Manual,Third,Coimbatore,132129,70500,4.5
+685,MG,Hector,2022,Diesel,Manual,First,Pune,47771,890942,4.6
+686,Toyota,Corolla,2012,Diesel,Manual,First,Chennai,114214,430502,4.7
+687,Skoda,Kushaq,2018,Petrol,Automatic,First,Kochi,91289,515907,4.5
+688,MG,Hector,2009,Petrol,Automatic,Third,Coimbatore,149940,140921,4.5
+689,Toyota,Glanza,2010,Diesel,Manual,First,Pune,167382,122784,3.7
+690,Kia,Sonet,2012,Petrol,Automatic,First,Kochi,145677,285484,4.3
+691,Renault,Kwid,2025,CNG,Automatic,First,Ahmedabad,56624,469282,3.8
+692,Maruti,Wagon R,2018,Petrol,Manual,First,Jaipur,111974,134805,4.0
+693,Toyota,Etios,2018,Petrol,Automatic,Second,Kochi,126199,531256,3.5
+694,Maruti,Alto,2015,Diesel,Manual,Third,Bengaluru,147505,251955,3.5
+695,Hyundai,Santro,2014,CNG,Manual,First,Bengaluru,119165,208847,4.8
+696,Kia,Carens,2016,Diesel,Automatic,Second,Chennai,132216,391033,4.0
+697,Hyundai,Verna,2017,Petrol,Manual,First,Coimbatore,91506,432735,4.1
+698,MG,Hector,2016,CNG,Manual,First,Hyderabad,118422,482161,4.6
+699,Kia,Carens,2011,Electric,Automatic,Second,Jaipur,163059,208141,3.9
+700,Kia,Sonet,2015,Petrol,Manual,First,Coimbatore,158890,276613,4.0
+701,Hyundai,Creta,2023,CNG,Manual,Second,Delhi,109269,497433,4.3
+702,Mahindra,Bolero,2020,Petrol,Manual,First,Coimbatore,60050,542548,4.5
+703,Hyundai,Venue,2019,Petrol,Manual,First,Bengaluru,94119,279227,4.1
+704,Mahindra,XUV500,2021,CNG,Manual,First,Jaipur,114061,493050,4.3
+705,Nissan,Sunny,2010,CNG,Automatic,First,Hyderabad,217516,106489,4.6
+706,Skoda,Rapid,2013,Petrol,Automatic,First,Jaipur,156563,261612,4.2
+707,Honda,Civic,2012,Petrol,Manual,Second,Kochi,146068,129031,4.6
+708,Honda,City,2013,CNG,Manual,First,Pune,165116,217657,4.4
+709,Mahindra,Bolero,2017,Petrol,Manual,More than Third,Coimbatore,63335,219961,4.1
+710,Tata,Harrier,2024,Petrol,Manual,First,Ahmedabad,62190,507266,4.7
+711,Volkswagen,Virtus,2023,Petrol,Manual,Second,Bengaluru,58353,491480,4.6
+712,Maruti,Alto,2023,Diesel,Manual,First,Delhi,63859,358255,4.1
+713,Nissan,Kicks,2020,Petrol,Manual,Second,Bengaluru,143776,323175,4.7
+714,Tata,Nexon,2016,Petrol,Automatic,Third,Pune,129431,270534,3.9
+715,Skoda,Kushaq,2016,Diesel,Manual,First,Pune,158446,414994,4.1
+716,MG,Astor,2023,Petrol,Manual,First,Coimbatore,84712,806011,4.3
+717,Hyundai,Venue,2018,Petrol,Manual,Second,Kochi,110117,266829,3.9
+718,Honda,Jazz,2011,CNG,Manual,Second,Mumbai,142986,84000,3.9
+719,Ford,Endeavour,2023,Petrol,Manual,Third,Ahmedabad,75030,304165,4.0
+720,Renault,Kiger,2024,Petrol,Manual,First,Bengaluru,81944,496004,3.6
+721,Maruti,Dzire,2010,Petrol,Automatic,Second,Kochi,217837,93936,4.7
+722,Tata,Harrier,2016,CNG,Automatic,First,Kochi,112269,290217,4.3
+723,Tata,Tiago,2011,Petrol,Manual,First,Pune,171707,110409,4.2
+724,Tata,Harrier,2016,Petrol,Manual,First,Delhi,95332,240471,4.7
+725,Volkswagen,Vento,2012,Petrol,Manual,Second,Ahmedabad,133587,171697,3.4
+726,Volkswagen,Polo,2019,Petrol,Manual,Second,Jaipur,75714,401068,3.8
+727,Kia,Seltos,2022,Petrol,Manual,Second,Kochi,83631,516418,4.0
+728,Hyundai,Venue,2025,Petrol,Manual,First,Mumbai,29341,670321,3.6
+729,Kia,Carens,2013,Petrol,Manual,Second,Coimbatore,148771,231820,5.0
+730,Honda,Jazz,2010,CNG,Manual,First,Kochi,133126,247566,4.0
+731,Honda,Civic,2009,Petrol,Manual,Third,Mumbai,194148,84000,4.2
+732,Honda,City,2013,Petrol,Automatic,Third,Delhi,166555,82500,4.1
+733,Maruti,Alto,2022,Petrol,Automatic,First,Kochi,47739,443209,4.3
+734,MG,Hector,2013,Petrol,Manual,Third,Mumbai,178669,260487,4.4
+735,Hyundai,Venue,2009,Electric,Manual,More than Third,Hyderabad,154973,110837,4.1
+736,Renault,Triber,2023,Petrol,Manual,Third,Bengaluru,51300,368993,4.1
+737,Honda,Amaze,2021,Petrol,Manual,First,Pune,92551,577424,4.4
+738,Kia,Seltos,2020,CNG,Manual,Third,Hyderabad,116598,451689,3.8
+739,Mahindra,Bolero,2019,CNG,Automatic,First,Chennai,107406,524106,4.9
+740,Renault,Duster,2012,Diesel,Automatic,More than Third,Pune,150468,147048,4.1
+741,Mahindra,XUV300,2023,Petrol,Manual,First,Jaipur,68088,487554,3.9
+742,Hyundai,Venue,2025,CNG,Manual,First,Chennai,79127,563415,3.6
+743,Skoda,Octavia,2021,Diesel,Manual,First,Mumbai,105100,684024,4.1
+744,MG,Astor,2012,Petrol,Automatic,Third,Hyderabad,138184,269157,4.2
+745,Hyundai,Grand i10,2009,Petrol,Manual,First,Bengaluru,208448,161613,4.8
+746,Nissan,Magnite,2010,Diesel,Automatic,Second,Coimbatore,156805,131733,4.0
+747,Mahindra,Thar,2024,Petrol,Manual,Third,Mumbai,88836,664311,4.7
+748,Kia,Seltos,2009,Petrol,Manual,Third,Mumbai,185748,84000,4.4
+749,Toyota,Glanza,2011,CNG,Manual,First,Kochi,159328,181504,4.1
+750,Volkswagen,Taigun,2009,Diesel,Manual,First,Ahmedabad,146329,113228,3.5
+751,Kia,Carens,2009,Petrol,Manual,Second,Ahmedabad,208726,73500,3.9
+752,Ford,Endeavour,2012,CNG,Manual,First,Delhi,152565,207751,4.3
+753,Renault,Triber,2017,Petrol,Manual,Third,Hyderabad,61029,165441,3.8
+754,Hyundai,Grand i10,2013,CNG,Manual,First,Pune,151896,198704,4.2
+755,Hyundai,Grand i10,2012,Petrol,Manual,First,Mumbai,201625,175233,4.4
+756,MG,ZS EV,2024,Diesel,Manual,First,Mumbai,52549,1066421,4.2
+757,Mahindra,Thar,2017,Petrol,Automatic,Second,Mumbai,139446,328239,4.0
+758,Maruti,Celerio,2013,CNG,Manual,First,Delhi,150875,102295,3.8
+759,Tata,Harrier,2012,Petrol,Manual,Second,Bengaluru,199176,182667,3.8
+760,Volkswagen,Polo,2021,Diesel,Manual,First,Pune,69800,588310,4.0
+761,Ford,Figo,2023,Petrol,Manual,Second,Jaipur,82360,443478,3.5
+762,Ford,Aspire,2020,Petrol,Manual,Second,Kochi,50392,365646,4.2
+763,Hyundai,Grand i10,2025,Petrol,Manual,Third,Ahmedabad,41340,455885,4.0
+764,Renault,Duster,2013,Petrol,Manual,Second,Delhi,102307,253586,4.3
+765,Maruti,Dzire,2018,Petrol,Automatic,First,Jaipur,118160,224792,4.7
+766,Toyota,Etios,2010,Petrol,Manual,First,Kochi,156920,164967,4.0
+767,Toyota,Innova,2024,Diesel,Manual,Second,Mumbai,80704,1158511,3.7
+768,Toyota,Innova,2019,Petrol,Manual,Second,Kochi,90453,388314,4.4
+769,Nissan,Kicks,2013,Electric,Manual,First,Chennai,151329,76500,4.0
+770,Volkswagen,Taigun,2013,Petrol,Manual,Second,Jaipur,144857,220782,4.1
+771,Hyundai,Venue,2015,Petrol,Manual,Third,Pune,96981,179338,4.3
+772,Toyota,Innova,2017,Petrol,Manual,First,Bengaluru,124089,412769,4.1
+773,Nissan,Magnite,2014,Diesel,Automatic,Third,Chennai,152644,76500,4.4
+774,Honda,Jazz,2025,CNG,Manual,First,Coimbatore,51444,614014,4.4
+775,Ford,Figo,2019,Petrol,Manual,Third,Ahmedabad,109204,284576,4.2
+776,Nissan,Magnite,2014,Petrol,Manual,First,Hyderabad,118837,179639,4.5
+777,Honda,Jazz,2022,Electric,Manual,First,Hyderabad,29905,644098,4.6
+778,Tata,Nexon,2014,Petrol,Automatic,Second,Chennai,124696,173997,3.7
+779,Skoda,Rapid,2013,Petrol,Automatic,Third,Ahmedabad,132946,259208,4.0
+780,Skoda,Superb,2021,Diesel,Manual,Second,Delhi,94582,557254,3.8
+781,Honda,City,2025,Diesel,Manual,First,Mumbai,67146,839459,4.1
+782,Toyota,Etios,2011,Petrol,Manual,Third,Coimbatore,180007,117915,3.6
+783,Hyundai,Santro,2017,Diesel,Manual,Second,Kochi,118192,231074,4.1
+784,Toyota,Glanza,2009,Diesel,Manual,First,Jaipur,147780,187211,4.4
+785,Tata,Harrier,2023,Petrol,Automatic,First,Bengaluru,83995,601776,4.1
+786,Renault,Kiger,2013,Petrol,Manual,Second,Jaipur,123943,158758,4.5
+787,Mahindra,Thar,2017,Petrol,Manual,First,Kochi,155558,283973,4.9
+788,Maruti,Baleno,2017,Petrol,Automatic,Second,Pune,82754,204514,4.6
+789,Volkswagen,Taigun,2011,CNG,Manual,First,Ahmedabad,151437,152214,3.8
+790,Mahindra,Thar,2018,Petrol,Manual,First,Chennai,103855,406707,4.2
+791,Nissan,Magnite,2020,Petrol,Manual,First,Jaipur,67437,351466,4.0
+792,Toyota,Innova,2019,Petrol,Automatic,First,Delhi,90798,798911,4.1
+793,Volkswagen,Polo,2010,Petrol,Manual,First,Bengaluru,142711,81634,3.9
+794,Kia,Sonet,2012,Petrol,Manual,First,Kochi,143612,189353,4.3
+795,Nissan,Magnite,2025,Petrol,Automatic,First,Coimbatore,67402,502805,4.3
+796,Honda,Amaze,2010,Petrol,Manual,Third,Ahmedabad,148451,139706,3.9
+797,Skoda,Octavia,2022,Diesel,Manual,Second,Chennai,94822,607944,3.6
+798,Toyota,Glanza,2019,CNG,Manual,First,Hyderabad,126912,585847,3.7
+799,Honda,Civic,2016,Petrol,Automatic,First,Jaipur,118861,269590,4.8
+800,Toyota,Glanza,2017,Petrol,Manual,Third,Chennai,129810,444305,4.0
+801,Toyota,Corolla,2023,Petrol,Manual,Second,Ahmedabad,79737,804544,4.0
+802,Hyundai,Verna,2018,Petrol,Manual,Second,Ahmedabad,84768,324557,3.5
+803,Tata,Altroz,2014,Electric,Automatic,Second,Kochi,104330,222607,4.3
+804,Ford,Figo,2019,Diesel,Manual,First,Coimbatore,136413,185500,3.9
+805,Honda,Jazz,2018,Petrol,Automatic,Third,Kochi,75229,435751,3.9
+806,Honda,Jazz,2025,Petrol,Automatic,First,Hyderabad,57264,811334,3.8
+807,Skoda,Kushaq,2015,Petrol,Automatic,First,Hyderabad,154795,432657,4.1
+808,Volkswagen,Vento,2009,CNG,Manual,First,Coimbatore,197739,123218,4.4
+809,MG,Hector,2025,Petrol,Automatic,First,Ahmedabad,51268,989170,4.3
+810,Renault,Duster,2018,Petrol,Manual,First,Kochi,95763,358097,4.0
+811,Tata,Altroz,2009,Petrol,Manual,First,Ahmedabad,230000,73500,3.4
+812,Renault,Kwid,2012,Petrol,Automatic,First,Jaipur,137554,165087,4.5
+813,Honda,City,2016,Petrol,Manual,Second,Mumbai,152462,322086,4.0
+814,Skoda,Superb,2013,Petrol,Manual,First,Chennai,140003,219340,4.9
+815,MG,ZS EV,2020,Diesel,Manual,Third,Ahmedabad,131001,504727,4.5
+816,Toyota,Fortuner,2017,Electric,Automatic,Second,Mumbai,111275,720775,4.8
+817,MG,Astor,2009,Petrol,Automatic,Third,Coimbatore,217068,70500,4.0
+818,Nissan,Sunny,2022,Petrol,Manual,First,Jaipur,84013,366342,4.3
+819,Volkswagen,Vento,2024,Petrol,Manual,Second,Hyderabad,37172,534057,4.0
+820,Toyota,Etios,2014,CNG,Manual,First,Kochi,112153,406148,3.5
+821,Volkswagen,Vento,2010,Petrol,Automatic,First,Kochi,173496,72000,4.0
+822,Toyota,Fortuner,2022,Diesel,Manual,Second,Jaipur,78636,675526,3.9
+823,Hyundai,Grand i10,2015,Diesel,Automatic,First,Mumbai,170877,307716,4.3
+824,MG,Astor,2011,Petrol,Manual,Second,Mumbai,183048,140332,4.4
+825,Maruti,Wagon R,2024,Petrol,Automatic,First,Coimbatore,71961,525627,4.5
+826,Volkswagen,Taigun,2012,Electric,Manual,Second,Delhi,157602,190020,4.4
+827,Kia,Sonet,2012,Petrol,Manual,Third,Bengaluru,163887,204855,4.1
+828,Renault,Kiger,2021,Petrol,Manual,Third,Hyderabad,72105,443096,4.4
+829,Renault,Triber,2011,Petrol,Manual,First,Mumbai,158369,279377,4.0
+830,Tata,Altroz,2018,Petrol,Automatic,Second,Coimbatore,142151,388634,3.3
+831,Kia,Carens,2022,Electric,Manual,Second,Ahmedabad,89831,540074,5.0
+832,Kia,Seltos,2011,Petrol,Manual,Second,Chennai,151563,198117,4.1
+833,Renault,Kwid,2010,Petrol,Manual,Second,Delhi,210280,109747,4.9
+834,Volkswagen,Virtus,2011,CNG,Automatic,First,Pune,158949,114716,4.8
+835,Renault,Triber,2009,Petrol,Manual,Second,Mumbai,176146,84000,4.4
+836,Renault,Triber,2024,Petrol,Automatic,First,Mumbai,89225,580533,4.1
+837,Mahindra,XUV500,2014,Petrol,Manual,Second,Hyderabad,146351,210062,4.2
+838,Renault,Duster,2023,Electric,Manual,Second,Chennai,74797,494747,4.3
+839,Renault,Kiger,2020,Petrol,Automatic,Second,Chennai,100264,394244,4.2
+840,Ford,Endeavour,2020,Petrol,Manual,Second,Pune,89244,459984,4.4
+841,Nissan,Magnite,2017,Petrol,Automatic,First,Kochi,115962,255949,4.9
+842,MG,Hector,2016,Petrol,Automatic,More than Third,Mumbai,132922,325737,4.3
+843,Skoda,Superb,2015,Petrol,Automatic,First,Jaipur,157181,207326,4.6
+844,Maruti,Swift,2013,Petrol,Manual,Second,Delhi,165496,118679,4.2
+845,Ford,Figo,2021,Petrol,Manual,Second,Coimbatore,90951,257081,4.2
+846,Tata,Nexon,2025,Electric,Automatic,Third,Ahmedabad,77278,613735,4.1
+847,Tata,Altroz,2015,Electric,Manual,Second,Ahmedabad,134067,203318,3.8
+848,Tata,Punch,2025,CNG,Automatic,First,Hyderabad,78179,646169,4.7
+849,MG,Astor,2012,Petrol,Manual,Third,Mumbai,147031,117750,3.9
+850,Ford,Figo,2012,Petrol,Manual,First,Pune,132344,277352,4.6
+851,Toyota,Innova,2009,Petrol,Manual,Second,Jaipur,141724,107863,4.2
+852,Mahindra,XUV500,2017,Petrol,Automatic,Second,Ahmedabad,94380,346318,4.3
+853,Mahindra,Thar,2014,Petrol,Manual,First,Delhi,148313,233094,4.3
+854,Skoda,Rapid,2021,CNG,Manual,Second,Pune,75732,539327,4.2
+855,Hyundai,Creta,2009,Petrol,Manual,First,Jaipur,189048,108019,3.9
+856,Ford,Figo,2021,Petrol,Automatic,More than Third,Delhi,59616,359670,4.4
+857,Volkswagen,Vento,2021,CNG,Manual,Second,Pune,108443,373050,4.5
+858,Honda,Amaze,2024,Diesel,Automatic,First,Delhi,48575,823424,4.4
+859,Renault,Triber,2015,Petrol,Manual,More than Third,Pune,143594,227969,4.9
+860,Volkswagen,Virtus,2021,CNG,Automatic,Second,Mumbai,66833,681237,4.0
+861,Tata,Harrier,2021,Diesel,Manual,Second,Jaipur,83661,444442,4.7
+862,Toyota,Corolla,2023,Petrol,Automatic,Third,Mumbai,99031,951344,4.1
+863,Hyundai,Verna,2018,Petrol,Manual,Third,Bengaluru,103350,220404,4.3
+864,Renault,Kiger,2014,Petrol,Manual,First,Mumbai,104696,199487,4.8
+865,Hyundai,Venue,2021,Electric,Automatic,Third,Pune,88712,507349,4.3
+866,Volkswagen,Vento,2016,CNG,Automatic,Second,Mumbai,122271,220330,4.1
+867,Maruti,Dzire,2019,Petrol,Manual,First,Ahmedabad,65369,320591,4.0
+868,Volkswagen,Vento,2012,Petrol,Automatic,Second,Kochi,125414,132620,3.3
+869,Hyundai,Verna,2019,Diesel,Manual,Third,Chennai,96886,331433,4.3
+870,Renault,Kiger,2016,Petrol,Automatic,First,Coimbatore,96789,258301,4.9
+871,Maruti,Alto,2020,Petrol,Manual,Second,Hyderabad,85014,269764,4.2
+872,Volkswagen,Taigun,2010,Diesel,Manual,First,Bengaluru,184093,103629,5.0
+873,MG,Astor,2020,CNG,Manual,Second,Coimbatore,112159,482364,4.4
+874,Toyota,Innova,2024,Petrol,Manual,First,Ahmedabad,78540,864920,4.4
+875,Mahindra,XUV500,2015,Electric,Manual,Third,Kochi,116259,324750,3.4
+876,Skoda,Octavia,2023,Petrol,Automatic,Second,Kochi,73913,659367,3.6
+877,Toyota,Fortuner,2015,Electric,Manual,Second,Kochi,101350,362748,4.7
+878,Mahindra,Scorpio,2010,Petrol,Manual,First,Chennai,192525,76500,4.4
+879,Nissan,Sunny,2019,Petrol,Manual,Third,Hyderabad,102958,230611,3.8
+880,Toyota,Fortuner,2017,Diesel,Manual,First,Chennai,107834,564052,3.9
+881,Hyundai,Santro,2011,Petrol,Manual,Second,Kochi,199238,128664,3.9
+882,Toyota,Etios,2021,Petrol,Manual,First,Bengaluru,122657,670246,3.8
+883,Maruti,Swift,2021,CNG,Manual,More than Third,Bengaluru,41179,304216,4.6
+884,Kia,Sonet,2021,Diesel,Manual,First,Bengaluru,58709,669565,3.9
+885,Maruti,Dzire,2009,Electric,Manual,More than Third,Bengaluru,174943,81000,3.7
+886,Maruti,Alto,2009,CNG,Manual,First,Mumbai,157860,84000,4.5
+887,Nissan,Sunny,2019,Petrol,Manual,First,Ahmedabad,113300,223610,4.4
+888,Ford,Aspire,2009,CNG,Manual,First,Bengaluru,148885,81000,3.8
+889,Volkswagen,Vento,2017,Petrol,Manual,First,Jaipur,121208,320409,3.8
+890,Mahindra,XUV500,2019,Electric,Manual,First,Bengaluru,100042,541650,4.7
+891,Renault,Duster,2022,Diesel,Automatic,Third,Ahmedabad,53890,440802,4.9
+892,Maruti,Wagon R,2010,Petrol,Manual,Second,Ahmedabad,208203,73500,3.7
+893,Ford,Endeavour,2022,Petrol,Manual,First,Coimbatore,90955,316869,3.7
+894,Honda,Jazz,2017,Electric,Manual,Second,Delhi,103117,485410,3.6
+895,Renault,Kwid,2010,Petrol,Manual,Third,Hyderabad,169255,75000,5.0
+896,Kia,Seltos,2024,Petrol,Manual,First,Hyderabad,76067,657674,4.7
+897,Ford,Endeavour,2022,Petrol,Manual,First,Ahmedabad,51780,406827,4.6
+898,Volkswagen,Taigun,2016,Diesel,Automatic,First,Coimbatore,136456,374690,3.8
+899,Toyota,Fortuner,2012,Petrol,Automatic,First,Jaipur,114516,295710,4.0
+900,Tata,Punch,2016,Petrol,Manual,First,Coimbatore,141166,216503,4.3
+901,Volkswagen,Taigun,2025,Diesel,Manual,First,Kochi,50011,655437,4.6
+902,Tata,Nexon,2010,Petrol,Automatic,Second,Coimbatore,154867,194468,4.5
+903,Toyota,Glanza,2009,Diesel,Manual,First,Coimbatore,141624,70500,3.7
+904,Hyundai,Santro,2016,Petrol,Automatic,First,Ahmedabad,104881,192783,4.9
+905,Toyota,Innova,2023,Diesel,Manual,Second,Kochi,39955,973777,5.0
+906,Mahindra,Scorpio,2025,Petrol,Automatic,Second,Coimbatore,75043,647116,4.0
+907,Hyundai,Grand i10,2011,CNG,Manual,Third,Coimbatore,186260,180231,4.8
+908,Ford,Aspire,2018,Diesel,Manual,Second,Pune,146168,339497,4.4
+909,MG,Astor,2010,Diesel,Manual,Third,Hyderabad,152427,75000,3.5
+910,Mahindra,XUV300,2010,Petrol,Manual,Second,Jaipur,174559,69000,4.1
+911,Volkswagen,Polo,2011,Petrol,Automatic,First,Hyderabad,170148,146939,4.3
+912,Maruti,Celerio,2016,Petrol,Manual,First,Ahmedabad,106160,203170,4.2
+913,Hyundai,Grand i10,2018,Diesel,Automatic,Third,Mumbai,86999,562194,3.6
+914,Skoda,Superb,2018,CNG,Automatic,First,Bengaluru,99864,493099,4.4
+915,Volkswagen,Virtus,2009,CNG,Manual,First,Coimbatore,164015,70500,4.3
+916,Ford,EcoSport,2012,Petrol,Manual,First,Mumbai,114007,315591,4.3
+917,Kia,Carens,2012,Petrol,Manual,Second,Delhi,120403,187626,3.9
+918,Kia,Carens,2020,CNG,Automatic,First,Delhi,90875,686988,4.4
+919,Tata,Tiago,2009,Electric,Manual,Second,Delhi,124856,112408,4.0
+920,Tata,Tiago,2010,Petrol,Automatic,Third,Kochi,132769,129285,4.2
+921,Tata,Punch,2025,Petrol,Automatic,Second,Chennai,33282,639279,4.3
+922,Mahindra,Bolero,2014,Petrol,Manual,First,Kochi,86137,279484,3.8
+923,Renault,Kiger,2019,Petrol,Automatic,First,Mumbai,109812,393549,4.3
+924,Honda,Civic,2010,CNG,Manual,First,Bengaluru,204389,100553,4.0
+925,Hyundai,i20,2014,Petrol,Manual,More than Third,Bengaluru,111128,222324,4.4
+926,Ford,EcoSport,2023,Petrol,Manual,Third,Kochi,70235,264474,4.5
+927,MG,Astor,2013,Diesel,Manual,Third,Mumbai,143632,209544,3.9
+928,Tata,Altroz,2024,Diesel,Manual,First,Bengaluru,62302,611927,4.4
+929,Nissan,Sunny,2021,Petrol,Manual,Third,Pune,99249,285776,4.3
+930,Volkswagen,Virtus,2019,Petrol,Manual,More than Third,Hyderabad,137829,288809,3.6
+931,MG,Astor,2010,Petrol,Manual,Second,Bengaluru,213004,81000,3.6
+932,Ford,Figo,2010,Petrol,Manual,Second,Chennai,131771,87309,4.8
+933,Mahindra,XUV500,2012,Petrol,Automatic,First,Mumbai,167813,227518,4.1
+934,Mahindra,Thar,2010,Petrol,Manual,Second,Bengaluru,168105,81000,5.0
+935,Kia,Seltos,2011,Electric,Manual,First,Ahmedabad,183932,171208,4.2
+936,Hyundai,Venue,2013,CNG,Manual,Third,Ahmedabad,143326,123825,4.0
+937,Honda,Civic,2009,Diesel,Manual,Third,Hyderabad,195056,75000,4.1
+938,Tata,Nexon,2010,Electric,Manual,Second,Ahmedabad,182612,237806,3.9
+939,Skoda,Octavia,2013,Diesel,Manual,Second,Mumbai,115080,275938,3.9
+940,Skoda,Superb,2009,Petrol,Manual,Third,Kochi,194432,81547,4.6
+941,Maruti,Alto,2017,Diesel,Manual,First,Hyderabad,102240,201945,4.2
+942,Honda,Amaze,2022,Petrol,Manual,First,Chennai,83144,594501,4.3
+943,Tata,Punch,2020,Diesel,Manual,Second,Mumbai,147749,376692,4.4
+944,Volkswagen,Virtus,2012,Petrol,Manual,First,Coimbatore,150320,169652,4.3
+945,Nissan,Sunny,2019,Petrol,Manual,Second,Delhi,90002,268836,4.6
+946,Nissan,Kicks,2012,Petrol,Automatic,Third,Coimbatore,151034,70500,3.4
+947,Nissan,Kicks,2009,Electric,Manual,Second,Chennai,154016,76500,4.4
+948,Volkswagen,Polo,2025,Petrol,Manual,First,Bengaluru,53461,782883,4.1
+949,Renault,Kwid,2023,Petrol,Manual,First,Ahmedabad,87549,429118,4.0
+950,Tata,Punch,2018,Petrol,Automatic,Third,Chennai,83538,288528,4.1
+951,Skoda,Rapid,2017,Petrol,Manual,Second,Delhi,116558,368731,4.6
+952,Honda,Jazz,2023,Electric,Manual,Third,Delhi,70695,652999,3.9
+953,Skoda,Octavia,2022,Petrol,Manual,Second,Chennai,103988,610718,4.2
+954,MG,Astor,2009,Diesel,Manual,Second,Bengaluru,153078,81000,4.2
+955,Toyota,Glanza,2024,Petrol,Automatic,First,Pune,70278,1031731,4.4
+956,Nissan,Sunny,2015,CNG,Manual,First,Hyderabad,139494,163017,3.9
+957,Kia,Sonet,2020,Petrol,Manual,Third,Kochi,80039,500369,4.9
+958,Ford,EcoSport,2013,CNG,Automatic,First,Coimbatore,127233,111923,3.8
+959,Maruti,Wagon R,2025,CNG,Manual,Second,Jaipur,86398,417058,4.9
+960,Honda,Jazz,2022,Petrol,Manual,Second,Pune,28873,512808,4.6
+961,Honda,Amaze,2022,Diesel,Automatic,First,Pune,43015,780163,4.3
+962,Mahindra,Thar,2023,Petrol,Manual,First,Pune,53958,646999,4.0
+963,Tata,Tiago,2018,Electric,Automatic,Second,Hyderabad,104778,398652,4.1
+964,Toyota,Etios,2009,Petrol,Manual,First,Mumbai,216735,148714,4.6
+965,MG,Hector,2015,Petrol,Manual,First,Kochi,121987,378499,4.1
+966,Volkswagen,Vento,2020,Petrol,Manual,Second,Pune,82333,401642,4.5
+967,Honda,Amaze,2016,Diesel,Automatic,First,Kochi,136677,289090,3.9
+968,Honda,Jazz,2015,Petrol,Automatic,First,Kochi,118306,297215,4.8
+969,Toyota,Etios,2013,Petrol,Automatic,First,Pune,164262,313789,3.9
+970,Toyota,Fortuner,2018,Electric,Manual,More than Third,Delhi,90412,642237,3.6
+971,Skoda,Rapid,2014,CNG,Manual,Second,Coimbatore,91747,323342,4.8
+972,Renault,Duster,2020,Petrol,Automatic,Third,Delhi,102613,416657,3.5
+973,MG,Astor,2022,Diesel,Manual,First,Kochi,9309,763535,4.3
+974,Honda,City,2015,Diesel,Manual,First,Pune,141526,360707,4.0
+975,MG,ZS EV,2024,Diesel,Manual,Third,Bengaluru,61453,869910,4.9
+976,MG,Astor,2019,Diesel,Manual,Second,Jaipur,117004,536482,4.4
+977,Kia,Sonet,2021,Diesel,Manual,Third,Bengaluru,53928,604394,3.6
+978,Ford,Endeavour,2021,Diesel,Manual,First,Chennai,52699,358757,4.5
+979,MG,Astor,2025,CNG,Manual,First,Delhi,46614,1038147,4.3
+980,Kia,Carens,2013,Petrol,Manual,First,Hyderabad,125123,137992,4.3
+981,Skoda,Kushaq,2023,Petrol,Manual,First,Delhi,113493,615745,3.5
+982,Toyota,Fortuner,2023,Diesel,Manual,Second,Ahmedabad,116341,835160,4.7
+983,Skoda,Rapid,2021,Petrol,Automatic,Second,Coimbatore,105809,373639,4.2
+984,Skoda,Kushaq,2015,Petrol,Manual,First,Hyderabad,96134,288951,3.3
+985,Kia,Seltos,2017,Diesel,Manual,First,Bengaluru,93763,481220,3.5
+986,Skoda,Rapid,2013,Petrol,Manual,First,Hyderabad,161475,212840,3.8
+987,Nissan,Magnite,2020,Petrol,Automatic,Second,Mumbai,86342,320731,3.7
+988,Renault,Duster,2022,Petrol,Automatic,Second,Pune,68227,421268,4.1
+989,Nissan,Kicks,2025,Petrol,Manual,First,Coimbatore,74266,446035,4.4
+990,Mahindra,XUV500,2016,Petrol,Manual,Second,Coimbatore,136720,269436,4.2
+991,Kia,Carens,2017,Petrol,Manual,Third,Ahmedabad,166231,304504,4.5
+992,MG,Hector,2019,Petrol,Manual,First,Hyderabad,113920,452449,4.6
+993,Kia,Carens,2011,Petrol,Automatic,Second,Jaipur,145981,130219,4.0
+994,Mahindra,Bolero,2015,Petrol,Manual,Third,Coimbatore,111412,233431,4.3
+995,Ford,EcoSport,2016,Diesel,Manual,Third,Bengaluru,106065,211285,4.1
+996,Honda,Civic,2010,Electric,Automatic,First,Pune,135163,148797,4.0
+997,Skoda,Kushaq,2022,Diesel,Manual,First,Mumbai,60813,854202,4.6
+998,Honda,Amaze,2011,Petrol,Manual,Second,Pune,193722,114733,4.6
+999,Honda,Amaze,2025,Petrol,Manual,First,Kochi,50550,733311,4.4
+1000,Nissan,Magnite,2014,Diesel,Manual,Second,Chennai,131560,219180,4.0
+1001,Ford,Aspire,2016,Petrol,Manual,Second,Kochi,114055,223213,4.1
+1002,Renault,Kiger,2025,Petrol,Manual,Second,Delhi,34634,618448,3.9
+1003,Skoda,Superb,2016,Petrol,Manual,Third,Delhi,106902,378176,4.0
+1004,Renault,Kwid,2025,Petrol,Manual,First,Bengaluru,24935,565420,4.0
+1005,Tata,Harrier,2015,Diesel,Manual,First,Mumbai,155508,238876,4.4
+1006,Kia,Seltos,2009,Petrol,Manual,First,Ahmedabad,191430,206588,4.2
+1007,Mahindra,XUV300,2015,Petrol,Manual,Second,Pune,122184,390629,3.5
+1008,Tata,Tiago,2009,Diesel,Manual,First,Kochi,195009,102833,4.4
+1009,Tata,Nexon,2009,Petrol,Manual,First,Chennai,181002,76500,3.9
+1010,Kia,Carens,2016,Diesel,Manual,First,Kochi,154078,225558,4.2
+1011,Ford,Endeavour,2017,Petrol,Manual,Second,Hyderabad,118877,115895,4.0
+1012,Maruti,Alto,2010,Diesel,Automatic,Second,Pune,176574,78000,4.1
+1013,Hyundai,Verna,2012,Petrol,Manual,Second,Ahmedabad,118092,139067,4.4
+1014,Maruti,Baleno,2013,Petrol,Manual,Second,Coimbatore,131294,105578,4.0
+1015,Maruti,Celerio,2011,Diesel,Manual,Second,Coimbatore,168279,163547,4.6
+1016,Skoda,Superb,2023,Petrol,Manual,First,Jaipur,90353,637481,4.5
+1017,Volkswagen,Virtus,2020,Diesel,Manual,First,Chennai,104997,479850,4.3
+1018,Toyota,Corolla,2019,Diesel,Manual,Third,Ahmedabad,102443,649253,4.3
+1019,Renault,Kiger,2018,CNG,Manual,Second,Chennai,107767,225603,4.0
+1020,Honda,Jazz,2017,CNG,Manual,First,Coimbatore,116208,411597,3.9
+1021,Kia,Seltos,2016,Electric,Manual,More than Third,Mumbai,177020,464932,4.8
+1022,Toyota,Fortuner,2014,Diesel,Manual,Third,Jaipur,149595,201187,3.8
+1023,Nissan,Kicks,2011,Petrol,Manual,First,Bengaluru,191921,183844,4.0
+1024,Honda,Civic,2023,Petrol,Automatic,First,Bengaluru,71956,744316,4.3
+1025,Renault,Triber,2012,Petrol,Manual,Second,Delhi,178379,82500,4.3
+1026,Maruti,Celerio,2022,Petrol,Manual,Second,Mumbai,96372,446536,4.4
+1027,MG,Astor,2022,Diesel,Manual,First,Chennai,59312,780219,4.1
+1028,Tata,Nexon,2024,Diesel,Automatic,First,Mumbai,130000,572948,5.0
+1029,Kia,Seltos,2021,CNG,Automatic,First,Delhi,39528,741222,3.9
+1030,Honda,Civic,2015,Petrol,Manual,Second,Mumbai,184914,242788,4.2
+1031,Ford,Aspire,2011,Petrol,Manual,Third,Ahmedabad,175111,83150,4.2
+1032,Skoda,Superb,2019,Petrol,Automatic,Second,Coimbatore,106585,451731,4.1
+1033,MG,Hector,2010,Diesel,Manual,More than Third,Delhi,152836,125072,4.0
+1034,Skoda,Superb,2019,CNG,Manual,Second,Delhi,105959,591436,4.3
+1035,Kia,Sonet,2025,Petrol,Automatic,First,Kochi,54426,828230,2.8
+1036,Kia,Sonet,2017,Petrol,Manual,First,Kochi,82976,537161,3.7
+1037,Hyundai,Venue,2014,Petrol,Automatic,First,Hyderabad,158251,318801,4.2
+1038,Toyota,Etios,2020,Diesel,Automatic,First,Bengaluru,110446,803342,3.7
+1039,Volkswagen,Virtus,2024,CNG,Manual,First,Delhi,40324,674127,4.8
+1040,Hyundai,Santro,2013,CNG,Automatic,Third,Mumbai,180883,154463,4.2
+1041,Mahindra,XUV500,2011,Petrol,Automatic,First,Pune,203379,158590,4.7
+1042,Volkswagen,Polo,2018,Diesel,Automatic,Second,Mumbai,129979,509098,4.4
+1043,Renault,Triber,2019,Petrol,Manual,First,Pune,73296,340160,3.4
+1044,Toyota,Etios,2019,Diesel,Manual,Second,Coimbatore,69857,677888,4.0
+1045,Ford,Aspire,2013,Electric,Manual,Second,Ahmedabad,124101,73500,3.9
+1046,Volkswagen,Taigun,2021,Diesel,Manual,First,Coimbatore,74280,500630,3.6
+1047,Mahindra,Scorpio,2010,Petrol,Manual,Second,Ahmedabad,195284,107077,3.3
+1048,Toyota,Glanza,2023,Diesel,Automatic,Second,Coimbatore,24690,893032,3.6
+1049,Skoda,Kushaq,2021,Diesel,Manual,Third,Chennai,54476,568153,4.1
+1050,Tata,Nexon,2020,Petrol,Automatic,Second,Chennai,91752,448089,3.7
+1051,Mahindra,Scorpio,2009,Petrol,Automatic,More than Third,Jaipur,159056,157398,4.1
+1052,Renault,Duster,2014,CNG,Manual,Second,Jaipur,167434,180196,3.6
+1053,Toyota,Corolla,2009,Petrol,Manual,First,Kochi,155221,72000,4.1
+1054,Hyundai,Grand i10,2024,Petrol,Manual,First,Bengaluru,52559,455679,4.0
+1055,Kia,Sonet,2018,Petrol,Automatic,First,Bengaluru,97200,466342,4.2
+1056,Maruti,Swift,2020,Petrol,Manual,Second,Hyderabad,77226,222355,4.2
+1057,Toyota,Etios,2010,Petrol,Manual,Second,Kochi,187819,118769,4.5
+1058,Ford,Figo,2015,Petrol,Manual,Third,Mumbai,115679,185092,3.9
+1059,Renault,Triber,2019,Petrol,Manual,Second,Jaipur,68528,271866,4.5
+1060,Honda,City,2022,Electric,Manual,First,Bengaluru,63232,774442,3.9
+1061,Hyundai,Grand i10,2023,Petrol,Manual,First,Hyderabad,83338,444028,4.6
+1062,Mahindra,Bolero,2018,Petrol,Automatic,Second,Kochi,108709,388505,3.9
+1063,Ford,Figo,2010,Petrol,Manual,Third,Hyderabad,208893,119454,4.2
+1064,Maruti,Wagon R,2025,Petrol,Manual,Second,Kochi,62776,355239,3.8
+1065,Maruti,Swift,2023,CNG,Automatic,Second,Chennai,34910,497267,4.2
+1066,MG,Astor,2013,Petrol,Manual,First,Chennai,139235,217768,4.1
+1067,Skoda,Superb,2014,Petrol,Manual,Second,Pune,164511,110220,4.1
+1068,Tata,Harrier,2012,Petrol,Automatic,First,Kochi,181991,114356,4.1
+1069,Toyota,Corolla,2011,Petrol,Manual,First,Hyderabad,170652,75000,4.1
+1070,Volkswagen,Vento,2020,Petrol,Automatic,First,Jaipur,98707,474338,4.6
+1071,MG,ZS EV,2016,Diesel,Manual,First,Delhi,100061,378481,3.8
+1072,Kia,Carens,2011,CNG,Manual,Second,Mumbai,138212,121208,3.9
+1073,MG,Astor,2024,Petrol,Manual,First,Coimbatore,75461,762850,4.2
+1074,Hyundai,i20,2010,Diesel,Manual,Third,Pune,186157,78000,4.4
+1075,Tata,Tiago,2022,Petrol,Manual,First,Chennai,46560,592921,4.8
+1076,Nissan,Magnite,2010,Petrol,Manual,Third,Mumbai,192169,84000,4.6
+1077,Hyundai,Santro,2009,Petrol,Automatic,First,Coimbatore,169591,70500,4.8
+1078,Volkswagen,Virtus,2019,Petrol,Manual,Second,Delhi,104057,392101,3.8
+1079,Maruti,Wagon R,2010,Diesel,Manual,More than Third,Kochi,152258,115867,4.5
+1080,Mahindra,XUV300,2012,Petrol,Manual,Second,Kochi,160841,169608,4.2
+1081,Kia,Seltos,2016,Petrol,Manual,First,Jaipur,106712,352655,4.4
+1082,Mahindra,XUV500,2021,Petrol,Automatic,Second,Ahmedabad,98431,444350,4.2
+1083,Skoda,Kushaq,2017,Petrol,Automatic,First,Bengaluru,131463,396016,3.9
+1084,Skoda,Octavia,2020,Petrol,Manual,First,Chennai,127247,478812,4.5
+1085,Honda,City,2023,Petrol,Manual,More than Third,Jaipur,101077,340325,4.2
+1086,Maruti,Baleno,2016,CNG,Manual,First,Chennai,141450,204607,4.1
+1087,Ford,EcoSport,2016,Diesel,Manual,Third,Coimbatore,91874,203398,3.7
+1088,Maruti,Alto,2022,Petrol,Manual,Third,Hyderabad,46240,428563,4.0
+1089,MG,ZS EV,2022,Diesel,Manual,Third,Jaipur,110264,572485,4.1
+1090,Hyundai,Verna,2024,Petrol,Manual,Third,Pune,30989,421059,3.9
+1091,Volkswagen,Polo,2020,Petrol,Automatic,Third,Pune,92759,442772,4.3
+1092,Honda,Civic,2021,CNG,Automatic,Second,Ahmedabad,100019,432884,4.2
+1093,Mahindra,XUV300,2015,Diesel,Manual,First,Hyderabad,142341,221430,4.0
+1094,MG,ZS EV,2016,Petrol,Manual,Second,Kochi,104223,471060,4.1
+1095,Tata,Harrier,2014,CNG,Manual,Second,Chennai,126726,225133,4.3
+1096,Tata,Tiago,2024,Petrol,Automatic,First,Coimbatore,41096,553843,4.0
+1097,Toyota,Corolla,2022,CNG,Automatic,More than Third,Kochi,88326,689019,3.7
+1098,Mahindra,XUV500,2010,Petrol,Manual,First,Jaipur,187727,169246,4.3
+1099,Skoda,Rapid,2016,Diesel,Automatic,First,Delhi,138266,321461,4.6
+1100,MG,Hector,2010,Petrol,Manual,Second,Jaipur,167172,99627,4.0
+1101,Nissan,Magnite,2024,Petrol,Manual,Second,Bengaluru,20461,530795,4.3
+1102,Skoda,Superb,2011,Petrol,Manual,Second,Pune,175520,129084,4.3
+1103,Kia,Carens,2025,Petrol,Manual,More than Third,Kochi,39991,561465,3.9
+1104,Toyota,Innova,2018,Petrol,Automatic,First,Mumbai,116222,661611,4.2
+1105,Mahindra,Thar,2011,Petrol,Manual,First,Chennai,139510,241569,4.1
+1106,MG,Astor,2017,Diesel,Automatic,First,Ahmedabad,93753,522767,4.1
+1107,Tata,Harrier,2009,Diesel,Manual,Second,Coimbatore,166698,70500,4.0
+1108,Volkswagen,Virtus,2009,Petrol,Manual,First,Hyderabad,201669,75000,4.9
+1109,Hyundai,i20,2016,Petrol,Manual,First,Mumbai,129043,160590,4.3
+1110,Toyota,Etios,2023,Diesel,Manual,Second,Delhi,61008,995138,4.4
+1111,Tata,Nexon,2009,Petrol,Manual,First,Mumbai,167963,84000,4.0
+1112,Kia,Sonet,2012,Petrol,Manual,First,Mumbai,177147,229004,3.9
+1113,Ford,Figo,2016,Electric,Automatic,Second,Kochi,101312,235984,4.5
+1114,Volkswagen,Vento,2024,Diesel,Manual,Third,Coimbatore,99743,542666,4.4
+1115,Honda,Amaze,2019,Diesel,Manual,Second,Chennai,142463,403882,4.1
+1116,Tata,Harrier,2021,Petrol,Manual,Second,Ahmedabad,47313,449968,4.1
+1117,MG,ZS EV,2014,Petrol,Manual,First,Jaipur,100951,275589,3.9
+1118,Ford,Aspire,2015,Diesel,Automatic,Third,Ahmedabad,141679,258159,3.3
+1119,Mahindra,Thar,2010,Diesel,Manual,Second,Mumbai,163211,152462,4.3
+1120,Nissan,Kicks,2010,Petrol,Manual,Second,Bengaluru,155338,132845,4.3
+1121,Ford,Aspire,2018,Diesel,Automatic,Second,Bengaluru,61393,445156,3.9
+1122,Maruti,Baleno,2017,Petrol,Manual,First,Ahmedabad,109100,270055,3.8
+1123,MG,Hector,2012,Diesel,Manual,Second,Pune,127995,197972,3.8
+1124,Ford,Figo,2009,Petrol,Manual,First,Coimbatore,176330,116927,3.8
+1125,Ford,Aspire,2022,Petrol,Manual,First,Ahmedabad,73181,511529,4.3
+1126,Renault,Duster,2009,Petrol,Manual,First,Delhi,167607,82500,4.1
+1127,Mahindra,Scorpio,2022,CNG,Manual,Second,Chennai,89888,495577,3.8
+1128,Ford,EcoSport,2018,Diesel,Manual,More than Third,Delhi,91478,279733,4.3
+1129,Nissan,Kicks,2009,Petrol,Automatic,Second,Hyderabad,178941,75000,4.4
+1130,Renault,Kiger,2017,CNG,Manual,Second,Chennai,135650,238012,4.2
+1131,Ford,Endeavour,2014,Petrol,Manual,First,Pune,123546,331645,4.0
+1132,MG,Hector,2015,Petrol,Manual,First,Delhi,164911,416101,3.9
+1133,Ford,EcoSport,2015,Diesel,Manual,First,Coimbatore,110194,265349,4.1
+1134,Honda,Civic,2018,Diesel,Automatic,More than Third,Bengaluru,106536,321858,4.4
+1135,Mahindra,XUV500,2010,Diesel,Manual,Second,Coimbatore,166849,100727,3.9
+1136,Renault,Triber,2019,Petrol,Manual,First,Chennai,64406,384048,4.0
+1137,Hyundai,i20,2016,Electric,Manual,First,Mumbai,134392,418016,4.3
+1138,Kia,Sonet,2020,CNG,Automatic,Third,Chennai,99934,563337,3.7
+1139,Kia,Carens,2015,Diesel,Manual,Second,Mumbai,166369,347419,4.1
+1140,Skoda,Octavia,2018,Petrol,Manual,First,Mumbai,161415,447686,3.9
+1141,Maruti,Alto,2016,Petrol,Manual,First,Delhi,94994,277110,3.7
+1142,Toyota,Etios,2019,Petrol,Manual,First,Mumbai,78316,656256,4.5
+1143,Kia,Sonet,2009,Electric,Manual,Second,Jaipur,157941,91253,4.1
+1144,Mahindra,XUV300,2024,Diesel,Manual,More than Third,Bengaluru,63480,545962,4.0
+1145,Ford,Figo,2025,Petrol,Manual,First,Jaipur,45341,482848,4.0
+1146,Honda,Jazz,2011,Diesel,Manual,First,Delhi,166483,202675,4.2
+1147,Ford,Aspire,2023,Diesel,Automatic,First,Delhi,45657,758149,4.4
+1148,Nissan,Sunny,2019,Electric,Manual,Third,Bengaluru,98022,308241,4.3
+1149,Renault,Duster,2015,Petrol,Manual,Second,Bengaluru,155220,119198,4.3
+1150,Volkswagen,Polo,2018,Petrol,Automatic,Second,Ahmedabad,128048,254410,4.0
+1151,Nissan,Sunny,2012,Petrol,Manual,More than Third,Hyderabad,118705,75000,4.3
+1152,Toyota,Fortuner,2025,Petrol,Manual,Second,Bengaluru,12433,978358,4.9
+1153,MG,Astor,2018,CNG,Manual,Second,Kochi,114328,379029,4.3
+1154,Honda,Amaze,2010,Petrol,Automatic,Second,Jaipur,149474,172128,4.0
+1155,Hyundai,Santro,2012,Diesel,Automatic,Second,Ahmedabad,158365,233803,4.4
+1156,Renault,Kiger,2010,Petrol,Manual,Second,Coimbatore,149017,107253,4.7
+1157,Tata,Harrier,2009,Petrol,Manual,First,Hyderabad,160490,75000,4.3
+1158,Volkswagen,Taigun,2021,Petrol,Manual,Third,Bengaluru,93436,334646,3.5
+1159,Mahindra,XUV300,2012,Diesel,Manual,Third,Bengaluru,182652,217855,4.3
+1160,Renault,Triber,2009,Petrol,Manual,Second,Hyderabad,172909,75000,4.7
+1161,Toyota,Innova,2024,Petrol,Manual,Second,Ahmedabad,42201,859150,5.0
+1162,Kia,Seltos,2018,Diesel,Manual,More than Third,Bengaluru,123181,316644,4.2
+1163,MG,Hector,2012,Diesel,Manual,First,Ahmedabad,183347,264739,4.2
+1164,MG,ZS EV,2024,Petrol,Automatic,Second,Ahmedabad,94715,693998,3.9
+1165,Mahindra,XUV300,2014,Petrol,Manual,First,Delhi,137091,241709,4.7
+1166,Honda,City,2014,Diesel,Manual,More than Third,Kochi,128800,320714,3.5
+1167,Skoda,Rapid,2019,CNG,Manual,First,Coimbatore,69127,428089,4.3
+1168,Tata,Punch,2009,Diesel,Manual,First,Ahmedabad,182898,73500,4.6
+1169,Hyundai,Grand i10,2018,Petrol,Manual,First,Ahmedabad,64735,256573,4.3
+1170,Ford,Endeavour,2009,Petrol,Manual,First,Pune,183180,131338,3.9
+1171,Hyundai,Santro,2020,Petrol,Manual,Second,Mumbai,88417,394438,4.4
+1172,Nissan,Magnite,2010,CNG,Manual,First,Delhi,133727,82500,4.7
+1173,Skoda,Octavia,2025,Petrol,Automatic,Third,Mumbai,62686,886973,3.8
+1174,Renault,Triber,2020,Diesel,Manual,First,Bengaluru,72263,399138,3.9
+1175,Volkswagen,Taigun,2020,Petrol,Manual,Third,Pune,106673,343606,4.1
+1176,Volkswagen,Vento,2021,CNG,Manual,First,Delhi,60360,664217,4.2
+1177,Nissan,Magnite,2010,Diesel,Manual,Third,Delhi,139918,161487,4.3
+1178,Skoda,Rapid,2017,CNG,Manual,Second,Chennai,85381,379780,4.6
+1179,Volkswagen,Taigun,2019,Diesel,Manual,Second,Jaipur,79057,423834,4.9
+1180,Kia,Carens,2009,Petrol,Manual,First,Jaipur,186195,131913,4.1
+1181,Kia,Sonet,2019,Diesel,Manual,Third,Hyderabad,121638,385521,4.2
+1182,Toyota,Etios,2011,CNG,Manual,First,Hyderabad,138328,153003,4.1
+1183,Volkswagen,Taigun,2016,Electric,Manual,First,Jaipur,124016,366316,4.8
+1184,Toyota,Corolla,2010,Petrol,Manual,First,Jaipur,169251,256628,3.9
+1185,Mahindra,Thar,2025,CNG,Manual,First,Pune,83978,640156,4.0
+1186,Hyundai,Santro,2019,Petrol,Automatic,Second,Ahmedabad,117581,308836,3.9
+1187,Maruti,Swift,2021,Electric,Manual,Second,Hyderabad,113207,378230,3.6
+1188,Skoda,Rapid,2025,CNG,Manual,First,Bengaluru,50006,868872,4.6
+1189,Kia,Carens,2016,Diesel,Manual,Second,Chennai,89075,451363,4.5
+1190,Kia,Carens,2017,Petrol,Manual,First,Pune,109637,404718,3.8
+1191,Maruti,Swift,2015,Petrol,Manual,More than Third,Chennai,100659,172880,3.6
+1192,Volkswagen,Virtus,2015,Petrol,Manual,More than Third,Jaipur,135154,215387,4.3
+1193,Nissan,Kicks,2018,Diesel,Manual,More than Third,Ahmedabad,121788,366891,4.3
+1194,Volkswagen,Taigun,2017,Petrol,Manual,Second,Ahmedabad,113449,201738,4.3
+1195,MG,ZS EV,2025,Diesel,Manual,Second,Bengaluru,59097,983043,4.2
+1196,Ford,Figo,2015,Diesel,Manual,First,Jaipur,109962,136199,4.3
+1197,Renault,Duster,2015,Diesel,Manual,First,Delhi,190000,210988,3.8
+1198,MG,Astor,2016,Petrol,Manual,Third,Chennai,85145,425524,4.4
+1199,Kia,Sonet,2018,Petrol,Manual,First,Kochi,113906,496956,4.0
+1200,MG,Hector,2009,CNG,Manual,Second,Jaipur,181638,69000,4.4
+1201,Kia,Carens,2022,CNG,Manual,Third,Pune,125863,640000,4.2
+1202,Honda,Civic,2022,Diesel,Automatic,More than Third,Chennai,92251,538172,4.4
+1203,Honda,City,2010,Diesel,Manual,More than Third,Jaipur,155641,70441,5.0
+1204,Kia,Carens,2024,Petrol,Manual,First,Mumbai,41233,887722,4.0
+1205,Mahindra,XUV500,2017,Diesel,Manual,Second,Delhi,139229,455061,4.2
+1206,Tata,Tiago,2012,Diesel,Automatic,Second,Mumbai,168874,84000,4.0
+1207,Renault,Duster,2018,Petrol,Automatic,Third,Kochi,122208,253163,4.5
+1208,Toyota,Fortuner,2015,Petrol,Manual,Second,Mumbai,129948,365372,4.2
+1209,Ford,Figo,2013,Petrol,Manual,First,Chennai,170214,203678,4.6
+1210,Kia,Carens,2013,Petrol,Manual,Third,Kochi,177157,105201,4.0
+1211,Toyota,Glanza,2019,CNG,Manual,Third,Coimbatore,111279,476578,4.2
+1212,Honda,City,2024,Petrol,Manual,First,Chennai,90261,772901,4.0
+1213,Tata,Harrier,2015,CNG,Automatic,First,Mumbai,170074,279159,4.2
+1214,MG,ZS EV,2020,Petrol,Manual,Second,Chennai,128792,537002,4.2
+1215,Tata,Tiago,2013,Petrol,Automatic,Second,Mumbai,140039,136298,4.3
+1216,Skoda,Kushaq,2009,Petrol,Manual,First,Delhi,172400,115875,3.8
+1217,Hyundai,i20,2020,CNG,Manual,Third,Ahmedabad,104479,372886,4.1
+1218,Volkswagen,Polo,2015,Electric,Automatic,First,Pune,146396,501365,3.7
+1219,Nissan,Kicks,2016,Petrol,Automatic,Second,Hyderabad,101467,236917,3.9
+1220,Nissan,Kicks,2025,Petrol,Automatic,Third,Coimbatore,113181,431404,4.1
+1221,Maruti,Swift,2015,Diesel,Manual,Third,Chennai,175148,231945,4.0
+1222,Skoda,Superb,2025,Petrol,Manual,Second,Pune,68570,747752,3.7
+1223,Ford,Endeavour,2021,Electric,Manual,Third,Ahmedabad,61495,504695,4.6
+1224,Maruti,Celerio,2016,Diesel,Manual,First,Ahmedabad,89093,164178,4.0
+1225,MG,Hector,2010,Petrol,Automatic,Second,Bengaluru,165471,97908,4.8
+1226,MG,Astor,2024,Petrol,Automatic,First,Delhi,57211,1006032,4.0
+1227,Maruti,Baleno,2023,Electric,Manual,Second,Pune,72868,364762,4.3
+1228,Honda,Amaze,2021,CNG,Manual,Third,Jaipur,64178,332738,3.7
+1229,Honda,Amaze,2011,Petrol,Manual,First,Chennai,194360,76500,5.0
+1230,Skoda,Octavia,2020,Diesel,Manual,More than Third,Bengaluru,102510,577723,4.1
+1231,Ford,Figo,2016,Electric,Automatic,First,Jaipur,133563,273838,4.7
+1232,MG,Astor,2022,Petrol,Automatic,Second,Pune,117137,805777,4.8
+1233,Tata,Harrier,2017,Petrol,Manual,Second,Ahmedabad,123409,282776,4.0
+1234,Maruti,Baleno,2021,Petrol,Manual,Second,Delhi,100259,407177,4.1
+1235,Ford,Aspire,2021,Petrol,Manual,Second,Ahmedabad,89765,326782,4.6
+1236,Toyota,Glanza,2025,Petrol,Manual,Second,Pune,49611,1008100,5.0
+1237,Hyundai,Venue,2015,Diesel,Automatic,Second,Coimbatore,109245,336799,4.0
+1238,Volkswagen,Virtus,2019,Electric,Manual,First,Kochi,65470,442004,3.8
+1239,Maruti,Dzire,2009,Petrol,Manual,Second,Kochi,179240,72000,4.3
+1240,Maruti,Wagon R,2014,CNG,Manual,First,Kochi,152396,171731,3.8
+1241,Honda,Jazz,2014,CNG,Manual,More than Third,Jaipur,132724,181500,4.9
+1242,Honda,Civic,2015,Petrol,Manual,First,Chennai,168518,211226,4.0
+1243,Nissan,Magnite,2023,Petrol,Automatic,First,Coimbatore,31519,413940,4.2
+1244,Renault,Triber,2011,Petrol,Manual,More than Third,Kochi,135267,72000,3.9
+1245,Volkswagen,Polo,2022,Petrol,Automatic,First,Hyderabad,79827,695852,3.8
+1246,Renault,Kwid,2022,CNG,Automatic,First,Kochi,39153,533236,3.2
+1247,MG,Astor,2015,Petrol,Manual,First,Pune,157480,334059,5.0
+1248,Ford,Figo,2010,Petrol,Automatic,First,Ahmedabad,146777,74947,4.2
+1249,MG,Hector,2010,Electric,Manual,Third,Mumbai,171424,84000,4.8
+1250,Ford,Figo,2011,Diesel,Manual,First,Hyderabad,144780,152898,4.4
+1251,Maruti,Wagon R,2020,Petrol,Manual,First,Hyderabad,84484,353407,3.8
+1252,Hyundai,Santro,2010,Petrol,Manual,First,Coimbatore,161988,100090,3.8
+1253,Kia,Seltos,2025,Diesel,Automatic,Second,Coimbatore,68102,790612,3.8
+1254,Maruti,Celerio,2025,Petrol,Manual,First,Ahmedabad,68513,532808,4.1
+1255,Toyota,Glanza,2025,Petrol,Manual,Third,Ahmedabad,70507,806518,4.2
+1256,Hyundai,Creta,2010,Diesel,Manual,First,Jaipur,171600,69000,5.0
+1257,Maruti,Celerio,2011,CNG,Manual,Second,Bengaluru,142380,88947,4.0
+1258,Hyundai,Santro,2022,Petrol,Manual,Second,Chennai,52509,540635,4.4
+1259,Toyota,Etios,2025,Petrol,Automatic,Second,Delhi,70128,1088877,4.8
+1260,MG,Hector,2009,Petrol,Automatic,First,Bengaluru,171614,212882,3.5
+1261,Honda,Amaze,2021,Electric,Manual,First,Jaipur,70642,557297,4.4
+1262,Hyundai,i20,2013,Diesel,Manual,More than Third,Chennai,178395,76500,4.0
+1263,Tata,Tiago,2022,Petrol,Manual,More than Third,Chennai,70638,357454,4.7
+1264,Honda,Jazz,2012,CNG,Manual,Second,Jaipur,138274,286192,4.3
+1265,Renault,Kwid,2011,Diesel,Manual,First,Kochi,192998,72000,4.6
+1266,Toyota,Innova,2014,Petrol,Manual,First,Ahmedabad,130638,339754,4.5
+1267,Nissan,Sunny,2017,Petrol,Manual,First,Coimbatore,89228,304010,4.4
+1268,Kia,Sonet,2022,Petrol,Manual,Second,Kochi,103026,585671,4.6
+1269,Maruti,Alto,2023,CNG,Manual,First,Pune,72210,273021,4.3
+1270,Nissan,Magnite,2025,Diesel,Manual,First,Kochi,48695,454866,4.1
+1271,MG,Astor,2015,Petrol,Automatic,First,Delhi,128773,370346,4.7
+1272,Mahindra,Scorpio,2021,CNG,Automatic,Third,Delhi,118088,498998,4.3
+1273,Hyundai,Grand i10,2023,Petrol,Automatic,First,Chennai,51254,552162,4.7
+1274,Nissan,Magnite,2017,CNG,Manual,Second,Kochi,119033,227944,3.9
+1275,Tata,Nexon,2011,Diesel,Manual,First,Mumbai,189240,92942,4.4
+1276,Hyundai,Venue,2022,Petrol,Manual,First,Ahmedabad,70863,360445,4.6
+1277,Skoda,Kushaq,2017,Petrol,Manual,Second,Mumbai,94635,457989,4.5
+1278,Ford,Figo,2011,Diesel,Manual,Second,Jaipur,199133,69000,4.0
+1279,Hyundai,Santro,2016,CNG,Manual,Second,Jaipur,134391,274187,4.1
+1280,Volkswagen,Polo,2022,Petrol,Manual,Second,Hyderabad,105984,495430,3.9
+1281,Kia,Seltos,2018,Petrol,Manual,First,Pune,89958,369653,4.0
+1282,Toyota,Glanza,2025,Petrol,Manual,First,Jaipur,42437,949054,4.1
+1283,Kia,Carens,2017,Petrol,Manual,Third,Chennai,118303,350958,4.1
+1284,Honda,Jazz,2014,CNG,Manual,First,Delhi,134340,213073,4.4
+1285,Mahindra,XUV300,2016,Diesel,Automatic,First,Pune,126025,290079,3.7
+1286,Renault,Kiger,2016,Diesel,Manual,Second,Delhi,124477,268748,4.4
+1287,MG,Hector,2011,CNG,Manual,First,Hyderabad,133881,255179,3.7
+1288,Hyundai,Venue,2016,Petrol,Manual,First,Coimbatore,115170,246894,3.8
+1289,Honda,Civic,2019,CNG,Automatic,First,Hyderabad,156661,489013,4.5
+1290,Toyota,Fortuner,2021,Petrol,Automatic,Second,Kochi,87634,746324,3.7
+1291,Renault,Kiger,2017,Diesel,Manual,Second,Coimbatore,97199,254676,4.6
+1292,Ford,Endeavour,2014,CNG,Manual,First,Pune,115966,231231,4.6
+1293,Mahindra,Scorpio,2015,CNG,Automatic,First,Mumbai,109784,438372,4.3
+1294,Renault,Duster,2017,Petrol,Manual,More than Third,Jaipur,82339,186011,3.7
+1295,Volkswagen,Polo,2018,Petrol,Manual,Second,Chennai,108989,194932,3.9
+1296,Hyundai,i20,2018,Petrol,Automatic,Third,Coimbatore,78005,280338,4.2
+1297,Mahindra,Scorpio,2012,Diesel,Manual,Second,Bengaluru,138198,129648,4.0
+1298,Volkswagen,Vento,2014,Petrol,Automatic,First,Jaipur,95201,220434,4.7
+1299,Volkswagen,Polo,2015,Diesel,Manual,Second,Kochi,148264,297616,4.1
+1300,Tata,Altroz,2020,Diesel,Manual,First,Kochi,82737,506865,4.1
+1301,Skoda,Rapid,2013,Petrol,Manual,Second,Pune,163223,181828,4.7
+1302,Hyundai,Creta,2010,Petrol,Manual,Second,Jaipur,157734,286575,4.2
+1303,Volkswagen,Taigun,2017,Petrol,Automatic,Second,Coimbatore,104535,356049,4.7
+1304,Renault,Kiger,2023,Petrol,Manual,First,Bengaluru,45363,456462,4.5
+1305,Skoda,Kushaq,2023,Petrol,Manual,First,Delhi,67735,786597,4.3
+1306,Toyota,Corolla,2022,Petrol,Manual,First,Jaipur,92265,667392,3.9
+1307,Honda,Amaze,2019,Petrol,Manual,Second,Mumbai,106318,493467,4.1
+1308,Volkswagen,Vento,2014,Petrol,Automatic,First,Coimbatore,144733,304525,4.3
+1309,Mahindra,Thar,2014,CNG,Manual,Second,Pune,115725,258411,4.4
+1310,Honda,Civic,2022,Petrol,Manual,Third,Pune,56160,500046,4.3
+1311,Renault,Kiger,2020,Diesel,Manual,First,Coimbatore,43933,374663,4.1
+1312,Honda,City,2015,Diesel,Manual,Second,Chennai,130969,326435,4.2
+1313,Volkswagen,Polo,2017,Petrol,Automatic,Second,Mumbai,93274,395667,4.8
+1314,MG,ZS EV,2014,Petrol,Manual,Second,Bengaluru,153434,204275,4.1
+1315,MG,Astor,2009,Petrol,Automatic,Third,Kochi,174312,131821,3.5
+1316,Renault,Triber,2018,CNG,Manual,First,Coimbatore,106204,271632,4.1
+1317,Skoda,Superb,2013,Petrol,Manual,Second,Delhi,116619,82500,3.8
+1318,Toyota,Innova,2024,Petrol,Manual,First,Ahmedabad,53285,837650,4.6
+1319,Volkswagen,Virtus,2011,Diesel,Manual,More than Third,Kochi,145414,183336,4.7
+1320,Skoda,Kushaq,2025,CNG,Manual,Third,Hyderabad,60184,698528,3.6
+1321,Skoda,Superb,2013,Electric,Automatic,First,Jaipur,131239,302663,4.8
+1322,Mahindra,Thar,2013,Petrol,Manual,Third,Chennai,186560,132366,4.4
+1323,Skoda,Superb,2024,Electric,Manual,Third,Ahmedabad,35765,678019,3.9
+1324,Tata,Nexon,2019,Petrol,Automatic,First,Hyderabad,74935,466361,4.8
+1325,Honda,Civic,2025,Petrol,Manual,First,Chennai,24943,590520,4.3
+1326,Renault,Duster,2022,Petrol,Manual,First,Coimbatore,78837,504336,4.0
+1327,Kia,Seltos,2011,Diesel,Manual,Third,Hyderabad,140795,147695,3.9
+1328,Honda,City,2024,Petrol,Manual,First,Mumbai,46776,661304,4.4
+1329,Nissan,Magnite,2016,Petrol,Manual,Second,Pune,162422,226605,4.0
+1330,Mahindra,Scorpio,2015,Diesel,Manual,First,Mumbai,97325,386090,3.5
+1331,Mahindra,XUV300,2009,Petrol,Manual,Third,Chennai,147587,76500,4.1
+1332,MG,ZS EV,2024,Petrol,Manual,First,Ahmedabad,81214,821662,4.7
+1333,Ford,Aspire,2015,Electric,Automatic,First,Hyderabad,121576,270954,3.2
+1334,Volkswagen,Taigun,2020,Petrol,Manual,First,Kochi,110305,479967,4.0
+1335,Volkswagen,Polo,2020,Petrol,Manual,Second,Bengaluru,85952,340350,3.6
+1336,Hyundai,Venue,2009,Petrol,Automatic,First,Jaipur,147500,108779,4.2
+1337,Ford,Endeavour,2011,Petrol,Manual,Third,Pune,160260,107161,4.4
+1338,Maruti,Baleno,2009,Petrol,Manual,First,Coimbatore,140457,128606,4.1
+1339,Renault,Duster,2023,Electric,Manual,Third,Bengaluru,49083,451978,4.1
+1340,Volkswagen,Polo,2016,Petrol,Manual,First,Hyderabad,80864,298726,3.6
+1341,Mahindra,Bolero,2019,CNG,Manual,Second,Mumbai,119862,363050,4.5
+1342,Honda,Civic,2021,CNG,Manual,First,Hyderabad,64066,504747,4.4
+1343,Hyundai,i20,2024,Diesel,Manual,First,Bengaluru,40188,670639,4.0
+1344,Skoda,Octavia,2023,CNG,Manual,Second,Bengaluru,75884,593247,4.1
+1345,Hyundai,Verna,2022,Petrol,Manual,First,Kochi,78832,442314,4.5
+1346,MG,Hector,2016,Petrol,Manual,Third,Ahmedabad,117200,317859,4.3
+1347,Nissan,Magnite,2016,Electric,Automatic,First,Pune,135978,184244,4.4
+1348,Maruti,Celerio,2016,CNG,Manual,First,Delhi,89201,266488,4.3
+1349,Kia,Carens,2015,Petrol,Manual,First,Bengaluru,130371,310745,4.9
+1350,Maruti,Dzire,2009,Petrol,Automatic,Second,Bengaluru,162814,159176,4.0
+1351,Renault,Duster,2025,Petrol,Manual,First,Coimbatore,105866,507118,4.6
+1352,MG,Hector,2013,Diesel,Manual,Third,Kochi,173219,329460,3.9
+1353,Skoda,Rapid,2017,Petrol,Manual,First,Delhi,133313,343670,4.2
+1354,Tata,Altroz,2015,Petrol,Manual,Third,Ahmedabad,149537,201304,4.3
+1355,Renault,Duster,2025,Petrol,Automatic,More than Third,Pune,86669,376118,4.5
+1356,Hyundai,Creta,2017,Petrol,Manual,Second,Hyderabad,85924,250233,3.8
+1357,Tata,Tiago,2017,CNG,Manual,First,Delhi,88491,316819,4.3
+1358,Ford,Figo,2021,Petrol,Manual,First,Pune,72445,449337,4.3
+1359,Hyundai,Grand i10,2015,Petrol,Manual,Third,Pune,112107,257016,4.4
+1360,Renault,Duster,2012,CNG,Manual,First,Pune,157904,78000,5.0
+1361,Toyota,Glanza,2014,Diesel,Manual,First,Coimbatore,56696,372523,4.0
+1362,Maruti,Baleno,2011,Petrol,Automatic,First,Kochi,180172,145466,3.8
+1363,Kia,Sonet,2022,Diesel,Automatic,Second,Kochi,41423,684277,3.3
+1364,Renault,Kiger,2021,Electric,Automatic,Third,Coimbatore,79111,323263,4.2
+1365,Nissan,Kicks,2018,Petrol,Manual,Third,Jaipur,127291,237883,3.5
+1366,Maruti,Swift,2012,Petrol,Manual,Second,Kochi,160702,72000,4.5
+1367,Maruti,Alto,2013,Petrol,Manual,Second,Bengaluru,178576,196269,4.4
+1368,Hyundai,i20,2013,Petrol,Manual,First,Ahmedabad,137399,147005,4.6
+1369,Skoda,Superb,2024,CNG,Manual,First,Ahmedabad,21876,742507,5.0
+1370,Hyundai,Creta,2015,Petrol,Automatic,Second,Chennai,92822,272376,4.6
+1371,Volkswagen,Polo,2012,Petrol,Automatic,First,Bengaluru,121736,285687,3.9
+1372,Ford,Aspire,2025,Petrol,Automatic,First,Pune,61066,668408,4.6
+1373,Toyota,Innova,2009,Electric,Automatic,First,Hyderabad,120970,94883,4.3
+1374,Hyundai,Verna,2017,Petrol,Manual,First,Coimbatore,114617,206754,4.3
+1375,Ford,Figo,2016,Petrol,Automatic,More than Third,Delhi,135598,178955,4.2
+1376,Hyundai,Verna,2012,Petrol,Manual,Third,Coimbatore,157148,70500,3.6
+1377,Honda,City,2014,Diesel,Manual,First,Hyderabad,131800,253886,4.8
+1378,Volkswagen,Taigun,2011,Diesel,Manual,More than Third,Bengaluru,158418,133327,4.1
+1379,Nissan,Kicks,2013,CNG,Manual,First,Coimbatore,164225,133087,4.1
+1380,Volkswagen,Taigun,2025,Petrol,Automatic,First,Ahmedabad,62240,660191,4.2
+1381,Mahindra,Thar,2013,Petrol,Manual,Second,Ahmedabad,132439,195400,3.0
+1382,Kia,Seltos,2014,Petrol,Manual,First,Ahmedabad,101622,259120,4.1
+1383,Mahindra,Bolero,2025,Petrol,Automatic,First,Ahmedabad,43371,756532,4.7
+1384,Nissan,Magnite,2017,Petrol,Manual,First,Ahmedabad,77626,362622,4.1
+1385,Toyota,Glanza,2015,Diesel,Manual,First,Pune,159208,347170,4.6
+1386,Skoda,Rapid,2024,Diesel,Manual,First,Bengaluru,68543,797130,3.8
+1387,Skoda,Octavia,2011,Petrol,Manual,First,Coimbatore,210088,70500,4.0
+1388,Kia,Seltos,2011,CNG,Manual,First,Jaipur,168064,139462,4.4
+1389,MG,ZS EV,2013,CNG,Manual,First,Kochi,160637,196824,3.9
+1390,Ford,Aspire,2018,Diesel,Manual,First,Hyderabad,110464,259805,4.6
+1391,Nissan,Sunny,2010,Petrol,Manual,Second,Kochi,168434,106199,4.4
+1392,Kia,Seltos,2025,Petrol,Automatic,Second,Kochi,78981,652537,4.9
+1393,Ford,Aspire,2023,Petrol,Manual,First,Pune,118337,364414,4.2
+1394,Renault,Kiger,2025,Electric,Manual,First,Hyderabad,39433,650680,4.5
+1395,Volkswagen,Vento,2020,CNG,Manual,First,Pune,90600,458321,4.1
+1396,Hyundai,Grand i10,2010,Electric,Manual,Second,Bengaluru,182662,81000,4.2
+1397,Kia,Sonet,2012,CNG,Manual,First,Ahmedabad,169078,263712,5.0
+1398,Kia,Seltos,2019,Petrol,Automatic,First,Chennai,104301,600060,3.9
+1399,Toyota,Etios,2024,Petrol,Manual,First,Pune,78437,841422,4.4
+1400,Volkswagen,Polo,2013,Petrol,Manual,Second,Mumbai,114361,298875,4.4
+1401,Tata,Tiago,2014,Diesel,Manual,Second,Pune,147802,250640,4.4
+1402,Tata,Harrier,2015,Petrol,Manual,First,Coimbatore,141470,205028,4.1
+1403,Kia,Sonet,2011,CNG,Manual,First,Kochi,165523,164524,4.3
+1404,MG,Astor,2025,Petrol,Manual,Second,Coimbatore,72622,648508,4.0
+1405,Tata,Tiago,2014,Petrol,Manual,First,Jaipur,122892,197011,4.9
+1406,Tata,Nexon,2015,Petrol,Manual,First,Delhi,195044,341729,4.2
+1407,Tata,Harrier,2021,Petrol,Manual,First,Jaipur,103431,410518,3.8
+1408,MG,Hector,2018,Diesel,Manual,First,Bengaluru,118205,535779,4.3
+1409,Mahindra,XUV500,2023,Petrol,Automatic,Second,Ahmedabad,66713,529002,4.1
+1410,MG,Astor,2009,Petrol,Manual,First,Delhi,164786,176129,4.2
+1411,Renault,Triber,2024,Petrol,Automatic,First,Mumbai,33317,656787,4.5
+1412,Maruti,Swift,2014,Petrol,Manual,Third,Hyderabad,132909,285746,4.0
+1413,Hyundai,Venue,2024,Petrol,Manual,Second,Ahmedabad,53404,444013,4.2
+1414,Maruti,Celerio,2010,CNG,Manual,Third,Mumbai,189701,84000,4.1
+1415,Ford,Endeavour,2016,Petrol,Manual,First,Jaipur,103330,189389,4.4
+1416,Honda,Jazz,2024,Petrol,Manual,First,Chennai,98574,633855,3.9
+1417,Tata,Tiago,2024,CNG,Manual,Third,Jaipur,96599,458511,4.2
+1418,Maruti,Celerio,2020,Petrol,Automatic,Second,Delhi,120203,399098,4.6
+1419,Renault,Kwid,2012,Petrol,Manual,More than Third,Delhi,149666,127043,4.5
+1420,Mahindra,Scorpio,2024,Petrol,Manual,First,Chennai,72166,690982,4.4
+1421,Kia,Seltos,2018,Petrol,Manual,Second,Kochi,85071,414278,4.5
+1422,Nissan,Sunny,2020,Petrol,Manual,First,Delhi,69674,339294,4.8
+1423,Hyundai,Grand i10,2016,Petrol,Automatic,Second,Coimbatore,165891,350812,3.5
+1424,Ford,Endeavour,2015,Petrol,Manual,First,Hyderabad,187804,162098,4.6
+1425,Hyundai,Grand i10,2013,Petrol,Automatic,First,Delhi,173714,279153,4.6
+1426,Honda,Civic,2019,Diesel,Automatic,Third,Chennai,104727,377805,4.4
+1427,Kia,Sonet,2023,Petrol,Automatic,First,Pune,66618,753458,4.3
+1428,Hyundai,i20,2020,CNG,Automatic,First,Mumbai,111519,575131,4.7
+1429,Maruti,Celerio,2011,Petrol,Manual,First,Chennai,165089,76500,4.5
+1430,Volkswagen,Taigun,2012,Petrol,Manual,First,Ahmedabad,195376,148705,4.4
+1431,Nissan,Magnite,2020,CNG,Manual,Third,Jaipur,75203,323260,4.7
+1432,Hyundai,Santro,2022,Petrol,Automatic,More than Third,Chennai,51535,476107,4.3
+1433,Hyundai,Verna,2020,Petrol,Automatic,Second,Coimbatore,66906,385234,4.2
+1434,Tata,Harrier,2013,Diesel,Manual,Second,Bengaluru,140145,348501,4.3
+1435,Hyundai,Venue,2010,CNG,Automatic,Second,Jaipur,193927,69000,4.2
+1436,Honda,Jazz,2019,Diesel,Manual,Third,Ahmedabad,102621,339362,4.6
+1437,Hyundai,Santro,2022,Diesel,Manual,First,Mumbai,52131,698330,4.0
+1438,Mahindra,Scorpio,2018,Petrol,Manual,Third,Mumbai,86881,374368,4.4
+1439,Skoda,Superb,2017,Petrol,Manual,First,Kochi,130955,343406,4.9
+1440,Renault,Triber,2022,CNG,Manual,More than Third,Coimbatore,75300,206125,4.1
+1441,Honda,Amaze,2023,Petrol,Manual,First,Hyderabad,44830,747583,3.9
+1442,Mahindra,Scorpio,2013,Petrol,Manual,First,Bengaluru,198319,101761,3.8
+1443,Tata,Tiago,2020,CNG,Automatic,First,Ahmedabad,66763,495261,4.2
+1444,Tata,Tiago,2024,Diesel,Automatic,Second,Coimbatore,49868,636223,4.3
+1445,Volkswagen,Virtus,2017,Petrol,Manual,Second,Pune,122511,191541,4.3
+1446,MG,Hector,2012,CNG,Manual,Second,Jaipur,145419,239264,4.3
+1447,MG,Hector,2025,Petrol,Manual,First,Ahmedabad,57714,806182,4.7
+1448,Toyota,Fortuner,2018,Petrol,Manual,First,Jaipur,96646,538370,4.5
+1449,Renault,Triber,2021,Petrol,Automatic,Third,Ahmedabad,58711,449320,3.5
+1450,Honda,City,2013,Diesel,Manual,First,Pune,170253,167541,4.7
+1451,Volkswagen,Vento,2012,Petrol,Automatic,More than Third,Jaipur,150007,200729,4.6
+1452,Renault,Kiger,2016,Diesel,Manual,Third,Ahmedabad,133354,335604,4.3
+1453,Honda,City,2015,Petrol,Manual,Second,Bengaluru,122210,298915,3.6
+1454,Hyundai,Grand i10,2015,Petrol,Manual,First,Ahmedabad,127864,262401,4.0
+1455,Nissan,Sunny,2009,CNG,Manual,Third,Chennai,154665,76500,4.1
+1456,MG,Astor,2018,Petrol,Manual,First,Ahmedabad,95286,398593,3.8
+1457,Mahindra,XUV300,2020,Petrol,Manual,First,Pune,118792,458324,3.8
+1458,Maruti,Baleno,2011,Petrol,Manual,Second,Chennai,156195,197711,3.7
+1459,Kia,Seltos,2023,Diesel,Manual,First,Delhi,55955,809458,4.2
+1460,Volkswagen,Polo,2025,Petrol,Manual,Second,Delhi,92970,588791,4.5
+1461,Hyundai,Verna,2024,Petrol,Manual,Second,Jaipur,68348,447700,3.7
+1462,Ford,Aspire,2022,CNG,Manual,Second,Kochi,66554,248570,4.2
+1463,Renault,Duster,2018,Diesel,Manual,First,Coimbatore,83894,230997,4.7
+1464,Tata,Tiago,2012,CNG,Manual,First,Delhi,179240,301103,4.0
+1465,Nissan,Sunny,2018,CNG,Manual,First,Hyderabad,122683,212630,4.0
+1466,Honda,Jazz,2020,Petrol,Automatic,First,Chennai,130009,536232,4.3
+1467,Honda,Civic,2016,Petrol,Manual,Second,Mumbai,115544,340272,4.2
+1468,Maruti,Wagon R,2014,Electric,Automatic,Second,Chennai,145748,190864,3.8
+1469,Kia,Seltos,2012,Diesel,Manual,First,Jaipur,159181,134761,4.6
+1470,Hyundai,Creta,2013,CNG,Automatic,Second,Mumbai,150411,161469,4.6
+1471,MG,ZS EV,2019,Petrol,Manual,First,Bengaluru,89204,684503,4.4
+1472,Kia,Sonet,2019,Petrol,Manual,Second,Coimbatore,113779,436505,3.7
+1473,Nissan,Kicks,2025,Electric,Manual,Second,Coimbatore,38557,390548,3.6
+1474,Volkswagen,Taigun,2024,Electric,Manual,First,Jaipur,80503,720788,3.7
+1475,Volkswagen,Virtus,2022,Petrol,Manual,First,Ahmedabad,72240,503134,4.3
+1476,Nissan,Sunny,2022,CNG,Manual,First,Pune,69718,409138,3.4
+1477,Renault,Triber,2013,Diesel,Automatic,First,Coimbatore,130206,204861,4.0
+1478,Skoda,Superb,2021,Diesel,Manual,First,Delhi,107128,649720,4.2
+1479,MG,ZS EV,2013,Diesel,Manual,More than Third,Hyderabad,155019,94318,4.2
+1480,Honda,Amaze,2017,Diesel,Manual,Second,Coimbatore,97138,284085,3.7
+1481,Hyundai,Verna,2020,Diesel,Manual,Third,Mumbai,104167,372458,3.6
+1482,Tata,Harrier,2024,Diesel,Manual,First,Chennai,81450,584196,4.2
+1483,Mahindra,XUV500,2018,Diesel,Manual,First,Ahmedabad,99238,336193,4.1
+1484,MG,Astor,2010,Diesel,Manual,First,Coimbatore,145181,153124,4.9
+1485,Renault,Duster,2009,Petrol,Automatic,First,Coimbatore,147692,70500,3.4
+1486,Honda,Jazz,2022,Diesel,Automatic,More than Third,Ahmedabad,70471,472971,3.8
+1487,Honda,Civic,2010,Diesel,Manual,First,Mumbai,217380,84000,4.0
+1488,Mahindra,Bolero,2012,Petrol,Manual,Third,Coimbatore,144672,70500,3.9
+1489,Maruti,Wagon R,2022,Diesel,Automatic,Second,Ahmedabad,63905,384873,4.2
+1490,Mahindra,Scorpio,2015,CNG,Automatic,Third,Kochi,101134,174878,4.3
+1491,Honda,City,2010,Petrol,Automatic,More than Third,Chennai,181942,119727,4.0
+1492,Nissan,Magnite,2009,Petrol,Manual,First,Coimbatore,113171,109713,3.6
+1493,Kia,Sonet,2012,Petrol,Manual,First,Delhi,124602,127311,4.9
+1494,Hyundai,Creta,2022,Electric,Manual,First,Jaipur,89717,530411,4.2
+1495,Honda,Civic,2021,Diesel,Manual,First,Chennai,43559,560534,3.7
+1496,Skoda,Rapid,2016,Petrol,Manual,Third,Coimbatore,117797,246559,3.9
+1497,Skoda,Kushaq,2013,Petrol,Automatic,First,Ahmedabad,129153,149371,4.6
+1498,MG,Astor,2014,Petrol,Manual,Second,Mumbai,162161,398792,4.5
+1499,Hyundai,Verna,2011,Diesel,Manual,Second,Ahmedabad,111333,162840,5.0
+1500,Nissan,Sunny,2020,Petrol,Manual,First,Hyderabad,57865,247824,3.4
+1501,Skoda,Superb,2024,CNG,Manual,Third,Ahmedabad,65399,496566,4.6
+1502,Skoda,Rapid,2015,Petrol,Manual,Second,Hyderabad,151464,213745,3.2
+1503,Maruti,Swift,2016,Petrol,Automatic,Second,Hyderabad,92495,308505,3.8
+1504,Volkswagen,Taigun,2011,Petrol,Manual,First,Chennai,188865,111833,4.2
+1505,Ford,Figo,2023,Diesel,Automatic,First,Ahmedabad,71681,493146,4.2
+1506,Toyota,Glanza,2009,Electric,Manual,Third,Mumbai,164715,84000,3.9
+1507,Ford,EcoSport,2010,CNG,Automatic,Third,Jaipur,171312,69000,4.1
+1508,MG,Hector,2015,Petrol,Manual,Third,Jaipur,129347,292442,4.5
+1509,Renault,Kiger,2018,Diesel,Manual,Third,Bengaluru,126851,238061,3.9
+1510,Skoda,Kushaq,2025,CNG,Automatic,First,Hyderabad,78025,807605,4.2
+1511,Ford,Figo,2023,Electric,Manual,Third,Mumbai,74936,605245,4.7
+1512,Mahindra,Bolero,2010,CNG,Automatic,First,Pune,205331,89066,4.6
+1513,Maruti,Wagon R,2018,Petrol,Manual,First,Bengaluru,55698,351356,4.5
+1514,Toyota,Etios,2015,CNG,Automatic,Third,Kochi,129283,248893,4.0
+1515,Mahindra,Thar,2011,Diesel,Manual,First,Bengaluru,152634,112604,4.0
+1516,Kia,Carens,2019,Petrol,Manual,Third,Ahmedabad,65821,517945,4.2
+1517,Maruti,Baleno,2023,Diesel,Manual,First,Coimbatore,73253,491952,3.4
+1518,Tata,Punch,2013,Petrol,Manual,More than Third,Bengaluru,148194,81000,4.3
+1519,Renault,Kwid,2021,Petrol,Manual,First,Jaipur,98442,345067,4.1
+1520,Nissan,Magnite,2025,Petrol,Manual,First,Pune,2500,632117,4.5
+1521,MG,Astor,2013,Petrol,Manual,First,Jaipur,140804,298701,4.0
+1522,Mahindra,Scorpio,2016,Petrol,Manual,First,Coimbatore,107603,324065,4.2
+1523,Nissan,Magnite,2014,Petrol,Manual,Third,Jaipur,131992,69000,4.2
+1524,Renault,Kwid,2016,Petrol,Manual,More than Third,Jaipur,140607,69000,3.5
+1525,Tata,Tiago,2009,Diesel,Automatic,Second,Mumbai,157136,84000,4.7
+1526,Ford,Figo,2014,Petrol,Manual,First,Ahmedabad,93965,118947,4.0
+1527,Mahindra,Bolero,2024,Petrol,Automatic,First,Mumbai,68299,825400,4.2
+1528,Nissan,Magnite,2019,CNG,Automatic,Second,Bengaluru,94084,340204,3.5
+1529,MG,Astor,2021,Diesel,Manual,More than Third,Ahmedabad,74043,540079,5.0
+1530,Skoda,Octavia,2009,Diesel,Manual,First,Jaipur,212385,88744,4.8
+1531,Honda,Civic,2022,CNG,Automatic,Second,Kochi,86209,569583,4.0
+1532,Hyundai,Venue,2022,Diesel,Manual,Third,Bengaluru,105386,394536,4.0
+1533,Volkswagen,Virtus,2020,Petrol,Manual,Second,Pune,95159,374041,4.5
+1534,Nissan,Kicks,2010,Petrol,Manual,First,Ahmedabad,164767,73500,3.8
+1535,Honda,Amaze,2023,Petrol,Manual,Second,Hyderabad,33092,572936,3.7
+1536,MG,Hector,2014,Petrol,Manual,First,Chennai,152840,296215,4.1
+1537,Mahindra,XUV500,2020,Diesel,Manual,First,Mumbai,126070,669463,4.7
+1538,Nissan,Kicks,2009,Petrol,Manual,First,Hyderabad,198178,75000,4.0
+1539,Mahindra,Bolero,2015,CNG,Manual,More than Third,Pune,139664,308008,3.8
+1540,Maruti,Dzire,2015,Petrol,Manual,Second,Chennai,131774,146448,4.5
+1541,Toyota,Fortuner,2015,Petrol,Manual,First,Coimbatore,193663,318441,3.8
+1542,Mahindra,Scorpio,2022,Petrol,Manual,First,Bengaluru,100704,636226,3.8
+1543,Ford,Aspire,2011,Electric,Manual,Second,Delhi,201829,139496,3.7
+1544,Skoda,Rapid,2018,Petrol,Manual,First,Hyderabad,148455,484359,3.9
+1545,Tata,Harrier,2024,Diesel,Manual,More than Third,Delhi,50625,511487,3.9
+1546,Skoda,Octavia,2022,Petrol,Manual,First,Kochi,51771,530944,3.9
+1547,Tata,Nexon,2016,Electric,Manual,Second,Bengaluru,104312,307092,4.4
+1548,Mahindra,XUV300,2014,Petrol,Manual,Second,Coimbatore,104520,187778,4.7
+1549,Volkswagen,Vento,2011,Diesel,Manual,First,Hyderabad,151154,75000,4.0
+1550,Skoda,Kushaq,2022,Petrol,Manual,Second,Kochi,75410,450237,3.8
+1551,Tata,Nexon,2018,CNG,Manual,First,Hyderabad,119150,342220,4.4
+1552,Ford,Aspire,2024,Electric,Automatic,First,Delhi,95150,673855,4.8
+1553,Ford,Figo,2015,CNG,Manual,First,Kochi,125206,253228,4.5
+1554,Honda,Amaze,2019,Petrol,Automatic,Second,Delhi,93714,433594,4.1
+1555,Mahindra,XUV300,2025,Diesel,Manual,Second,Jaipur,67010,639779,4.0
+1556,Tata,Nexon,2015,Petrol,Manual,First,Chennai,122066,289215,4.1
+1557,Skoda,Rapid,2016,Electric,Manual,Third,Chennai,163517,266356,4.5
+1558,Maruti,Wagon R,2024,Electric,Automatic,First,Chennai,101218,564763,4.3
+1559,Kia,Sonet,2015,Diesel,Manual,Third,Jaipur,61853,330641,4.0
+1560,Nissan,Kicks,2022,CNG,Manual,Second,Delhi,60875,278785,3.8
+1561,Volkswagen,Taigun,2021,Petrol,Manual,More than Third,Hyderabad,55045,360648,4.1
+1562,Nissan,Kicks,2024,CNG,Manual,Second,Ahmedabad,92115,443327,4.8
+1563,Toyota,Glanza,2025,Petrol,Manual,Third,Delhi,40890,1021879,4.8
+1564,Maruti,Celerio,2021,CNG,Manual,First,Ahmedabad,59418,224943,4.8
+1565,Mahindra,XUV300,2010,CNG,Manual,More than Third,Chennai,177502,76500,4.2
+1566,Tata,Punch,2014,Petrol,Automatic,Second,Ahmedabad,152640,282199,3.3
+1567,Ford,EcoSport,2020,Petrol,Manual,Second,Hyderabad,103405,421488,3.2
+1568,Maruti,Dzire,2020,Petrol,Automatic,Second,Delhi,84812,417387,5.0
+1569,Tata,Nexon,2011,Petrol,Automatic,First,Ahmedabad,171243,146855,4.8
+1570,Kia,Seltos,2014,Electric,Automatic,More than Third,Coimbatore,139030,324774,4.0
+1571,Tata,Tiago,2025,Diesel,Manual,More than Third,Pune,62115,489695,4.4
+1572,MG,Astor,2013,Diesel,Manual,More than Third,Ahmedabad,138752,254066,4.6
+1573,Honda,City,2018,Petrol,Manual,First,Kochi,128216,294882,3.6
+1574,Skoda,Superb,2012,Diesel,Manual,Second,Pune,180368,276884,3.9
+1575,Mahindra,XUV300,2023,Petrol,Manual,Third,Jaipur,83754,428502,3.4
+1576,Ford,EcoSport,2012,Electric,Manual,First,Delhi,139170,144389,3.8
+1577,Maruti,Baleno,2016,Electric,Manual,Second,Jaipur,105702,180525,4.5
+1578,Ford,Figo,2017,Diesel,Manual,First,Mumbai,137933,284754,4.6
+1579,Maruti,Dzire,2024,Petrol,Manual,First,Mumbai,85283,455804,3.8
+1580,Skoda,Kushaq,2015,CNG,Automatic,Third,Delhi,116045,272050,3.4
+1581,Toyota,Fortuner,2021,Petrol,Automatic,First,Coimbatore,89362,780878,4.0
+1582,Toyota,Glanza,2023,Electric,Automatic,Third,Coimbatore,113828,941054,3.9
+1583,Nissan,Magnite,2013,Petrol,Automatic,Third,Pune,131213,188764,4.1
+1584,MG,Hector,2024,Diesel,Manual,First,Kochi,66437,866467,4.7
+1585,Nissan,Kicks,2014,Petrol,Manual,First,Hyderabad,115885,184011,4.2
+1586,Maruti,Celerio,2018,Petrol,Manual,Second,Mumbai,113383,287292,4.7
+1587,Toyota,Etios,2025,CNG,Automatic,Second,Mumbai,26029,1018753,4.4
+1588,Volkswagen,Vento,2012,Petrol,Manual,First,Chennai,165861,76500,4.8
+1589,MG,ZS EV,2022,Petrol,Manual,First,Hyderabad,92381,612738,4.0
+1590,Mahindra,XUV500,2024,Petrol,Manual,Second,Coimbatore,57488,506043,3.2
+1591,Kia,Sonet,2025,Petrol,Automatic,First,Delhi,86972,869872,4.6
+1592,Tata,Tiago,2010,Petrol,Manual,First,Pune,131538,127585,4.0
+1593,Kia,Sonet,2014,Petrol,Manual,Third,Ahmedabad,95762,210218,3.7
+1594,MG,ZS EV,2009,Petrol,Manual,First,Bengaluru,134533,81000,4.0
+1595,Kia,Sonet,2013,Petrol,Manual,Third,Kochi,150172,123503,3.9
+1596,Kia,Sonet,2010,Petrol,Manual,First,Mumbai,187692,258005,4.6
+1597,Nissan,Sunny,2018,Petrol,Manual,First,Mumbai,92749,302006,4.2
+1598,Tata,Tiago,2020,Petrol,Manual,First,Jaipur,49859,290729,3.9
+1599,Toyota,Corolla,2018,Petrol,Manual,Third,Ahmedabad,92598,584311,3.6
+1600,Maruti,Alto,2012,Petrol,Manual,Second,Ahmedabad,137195,149048,3.9
+1601,MG,Hector,2022,Petrol,Manual,First,Ahmedabad,95735,701691,3.7
+1602,Volkswagen,Virtus,2015,Petrol,Manual,More than Third,Hyderabad,109418,256788,4.6
+1603,Skoda,Kushaq,2018,Electric,Automatic,Second,Delhi,95972,598106,4.0
+1604,Maruti,Baleno,2011,Diesel,Manual,First,Bengaluru,152003,173188,4.3
+1605,Mahindra,Thar,2020,Petrol,Manual,Second,Mumbai,124391,427417,3.8
+1606,Ford,EcoSport,2011,Petrol,Manual,Second,Bengaluru,109761,153497,4.1
+1607,Hyundai,Creta,2022,Petrol,Manual,First,Pune,116695,415714,5.0
+1608,Tata,Altroz,2015,Petrol,Manual,First,Chennai,85610,279454,4.0
+1609,Renault,Kiger,2022,Petrol,Automatic,Third,Bengaluru,105666,266619,3.7
+1610,Renault,Kwid,2021,Petrol,Automatic,First,Mumbai,63282,468521,4.7
+1611,Skoda,Rapid,2016,Petrol,Automatic,Second,Kochi,149960,324870,3.9
+1612,Skoda,Superb,2009,Petrol,Manual,First,Kochi,150699,72000,4.5
+1613,MG,Hector,2009,Diesel,Automatic,First,Chennai,159073,202116,4.5
+1614,Ford,Endeavour,2021,Electric,Automatic,First,Ahmedabad,77434,576143,3.7
+1615,Tata,Punch,2017,Diesel,Manual,Second,Jaipur,88202,478805,3.5
+1616,Toyota,Fortuner,2025,Petrol,Manual,Second,Chennai,39096,1009167,3.6
+1617,Maruti,Wagon R,2010,Petrol,Automatic,First,Bengaluru,164031,149668,4.3
+1618,Renault,Triber,2022,Petrol,Manual,First,Chennai,81800,402661,4.5
+1619,Renault,Kiger,2022,Petrol,Automatic,Third,Pune,67168,431924,3.3
+1620,Tata,Tiago,2016,Diesel,Automatic,Second,Chennai,126742,242885,4.7
+1621,Skoda,Superb,2016,Petrol,Manual,Second,Ahmedabad,135887,322328,4.1
+1622,Renault,Duster,2009,Petrol,Manual,Second,Ahmedabad,169026,85632,4.5
+1623,Nissan,Kicks,2018,Diesel,Manual,First,Pune,114256,319951,4.9
+1624,Toyota,Corolla,2019,Electric,Manual,More than Third,Ahmedabad,76961,561032,4.5
+1625,Kia,Carens,2023,CNG,Manual,Second,Pune,116374,581027,4.7
+1626,Mahindra,XUV300,2015,Diesel,Automatic,Third,Kochi,141769,176604,4.4
+1627,Maruti,Wagon R,2012,CNG,Automatic,More than Third,Pune,149924,78000,4.3
+1628,Volkswagen,Virtus,2017,Diesel,Automatic,More than Third,Mumbai,110634,277075,4.4
+1629,Mahindra,XUV300,2012,Petrol,Manual,Second,Mumbai,170384,189383,4.4
+1630,Toyota,Etios,2021,Petrol,Manual,Second,Bengaluru,76255,697317,3.8
+1631,Ford,Aspire,2025,Petrol,Manual,First,Ahmedabad,41195,584744,4.3
+1632,Honda,Civic,2015,CNG,Manual,First,Ahmedabad,110289,261569,5.0
+1633,Maruti,Celerio,2012,Petrol,Automatic,First,Delhi,136430,173179,4.1
+1634,Tata,Harrier,2014,Diesel,Manual,More than Third,Pune,119123,242933,3.9
+1635,Volkswagen,Polo,2025,Petrol,Manual,First,Jaipur,57223,475930,4.4
+1636,Ford,Endeavour,2019,Diesel,Manual,Second,Kochi,141000,284151,3.8
+1637,Hyundai,Grand i10,2021,Petrol,Manual,Second,Jaipur,87852,399854,4.3
+1638,Tata,Tiago,2019,Diesel,Manual,Third,Jaipur,133570,304904,4.2
+1639,Ford,Figo,2021,Petrol,Manual,Third,Jaipur,49365,315290,4.2
+1640,Toyota,Innova,2017,Petrol,Automatic,First,Ahmedabad,112712,583979,5.0
+1641,MG,Astor,2014,CNG,Automatic,Third,Pune,119489,331268,4.4
+1642,Renault,Kiger,2010,Petrol,Automatic,Second,Jaipur,147588,100779,4.1
+1643,Nissan,Magnite,2009,Petrol,Manual,First,Jaipur,143950,128690,4.2
+1644,Volkswagen,Polo,2021,CNG,Automatic,More than Third,Coimbatore,94052,414302,4.5
+1645,Tata,Altroz,2025,Petrol,Manual,Second,Pune,70347,648508,4.7
+1646,Skoda,Superb,2022,Petrol,Manual,First,Ahmedabad,72820,659931,3.9
+1647,Nissan,Magnite,2022,Diesel,Manual,First,Jaipur,43144,345730,4.3
+1648,Ford,Figo,2021,Petrol,Manual,First,Delhi,68695,418869,4.7
+1649,Kia,Carens,2022,Petrol,Manual,Second,Kochi,81187,577597,3.8
+1650,MG,ZS EV,2011,Petrol,Manual,First,Coimbatore,160205,176871,4.3
+1651,Kia,Carens,2011,Petrol,Manual,First,Kochi,149407,292756,4.2
+1652,Mahindra,Scorpio,2012,Diesel,Manual,First,Chennai,179436,215110,3.9
+1653,Nissan,Sunny,2023,Diesel,Manual,Third,Bengaluru,114787,265528,4.3
+1654,Hyundai,Creta,2018,CNG,Manual,Second,Delhi,89401,466209,4.8
+1655,Maruti,Alto,2009,Petrol,Automatic,Third,Jaipur,175257,69000,4.5
+1656,Tata,Tiago,2024,Electric,Automatic,Second,Bengaluru,31629,673189,4.1
+1657,Honda,Jazz,2011,CNG,Automatic,First,Delhi,130805,125798,3.9
+1658,Tata,Harrier,2017,Diesel,Manual,Second,Jaipur,119477,293491,4.4
+1659,Nissan,Sunny,2017,Petrol,Automatic,Second,Ahmedabad,87108,290515,3.7
+1660,Skoda,Superb,2014,Petrol,Manual,First,Mumbai,113355,215309,4.3
+1661,Mahindra,Bolero,2010,Petrol,Automatic,First,Chennai,205493,193219,4.2
+1662,Hyundai,i20,2024,Diesel,Automatic,Second,Hyderabad,46852,675600,4.3
+1663,Toyota,Glanza,2012,Petrol,Manual,First,Kochi,133857,275286,4.2
+1664,Kia,Carens,2011,Petrol,Automatic,First,Bengaluru,137681,306626,4.1
+1665,Toyota,Glanza,2011,Petrol,Automatic,Third,Chennai,177542,276327,3.6
+1666,Maruti,Dzire,2020,Petrol,Manual,First,Coimbatore,130980,283084,4.4
+1667,Honda,Amaze,2024,Diesel,Manual,Third,Ahmedabad,46958,551639,4.5
+1668,Mahindra,Scorpio,2025,Petrol,Manual,First,Bengaluru,43179,660057,5.0
+1669,Volkswagen,Vento,2025,Petrol,Automatic,First,Jaipur,77659,689345,4.8
+1670,Toyota,Corolla,2025,Diesel,Automatic,Third,Ahmedabad,58169,1010143,3.8
+1671,Mahindra,Thar,2009,Petrol,Manual,Second,Kochi,170446,72000,3.9
+1672,Ford,Endeavour,2021,Petrol,Manual,First,Chennai,89100,433307,3.6
+1673,Mahindra,Thar,2015,Petrol,Automatic,Second,Hyderabad,125306,213223,3.8
+1674,MG,Hector,2017,Petrol,Manual,Third,Coimbatore,97126,415367,3.2
+1675,Kia,Sonet,2012,Petrol,Manual,More than Third,Hyderabad,153014,135240,3.7
+1676,Renault,Triber,2022,Diesel,Manual,First,Ahmedabad,75182,455779,3.8
+1677,Skoda,Rapid,2023,Petrol,Manual,First,Chennai,55589,696781,4.0
+1678,Hyundai,Verna,2018,Diesel,Manual,More than Third,Hyderabad,79740,315621,3.6
+1679,Honda,Civic,2022,CNG,Manual,First,Jaipur,70972,460290,3.8
+1680,Toyota,Corolla,2017,Electric,Manual,First,Coimbatore,115898,591251,4.0
+1681,Hyundai,Creta,2018,Diesel,Manual,First,Pune,81094,526961,3.3
+1682,Nissan,Magnite,2017,Petrol,Automatic,More than Third,Chennai,165028,116166,4.4
+1683,Volkswagen,Taigun,2025,Electric,Manual,Second,Pune,73718,671458,4.2
+1684,Nissan,Kicks,2023,Petrol,Automatic,First,Bengaluru,58357,546413,3.8
+1685,Toyota,Glanza,2009,Petrol,Automatic,Second,Kochi,162179,182615,4.0
+1686,Volkswagen,Vento,2011,CNG,Manual,First,Pune,167340,150643,4.1
+1687,MG,ZS EV,2011,CNG,Manual,First,Hyderabad,134815,186444,3.4
+1688,Honda,Amaze,2024,Petrol,Manual,More than Third,Mumbai,79848,605103,4.1
+1689,Renault,Kwid,2010,Diesel,Manual,Third,Coimbatore,179299,70500,4.0
+1690,Ford,EcoSport,2019,Petrol,Manual,Second,Jaipur,65425,336526,4.5
+1691,MG,Hector,2014,Petrol,Automatic,Second,Hyderabad,127654,317353,4.4
+1692,Honda,City,2022,Petrol,Manual,First,Bengaluru,82272,692610,3.7
+1693,Maruti,Dzire,2024,Petrol,Manual,First,Kochi,44486,442587,4.0
+1694,Renault,Kwid,2024,Electric,Manual,First,Pune,73033,609781,4.2
+1695,Honda,City,2010,Petrol,Manual,Second,Delhi,130042,82500,3.7
+1696,Maruti,Wagon R,2017,Diesel,Automatic,First,Coimbatore,83631,305795,4.2
+1697,Volkswagen,Taigun,2025,Petrol,Automatic,More than Third,Coimbatore,73219,504889,4.7
+1698,MG,ZS EV,2020,Petrol,Manual,First,Ahmedabad,100505,592508,4.6
+1699,MG,Hector,2019,Petrol,Manual,First,Hyderabad,69205,555878,4.5
+1700,Mahindra,Thar,2025,Petrol,Manual,Third,Chennai,61881,653685,3.9
+1701,MG,Hector,2020,CNG,Manual,First,Mumbai,54157,764395,4.5
+1702,Skoda,Kushaq,2023,CNG,Manual,First,Delhi,100441,655508,4.1
+1703,Skoda,Rapid,2019,CNG,Manual,Second,Pune,131743,366177,4.5
+1704,MG,ZS EV,2009,Petrol,Manual,First,Hyderabad,161114,79130,4.4
+1705,MG,Astor,2012,Petrol,Manual,First,Coimbatore,141614,189674,4.6
+1706,MG,Astor,2017,Diesel,Manual,Second,Chennai,114488,562185,4.0
+1707,Renault,Kwid,2012,Diesel,Manual,Second,Hyderabad,127839,159295,4.2
+1708,Volkswagen,Polo,2013,Petrol,Manual,First,Bengaluru,168839,266962,4.2
+1709,Tata,Nexon,2024,Petrol,Manual,Third,Kochi,18307,485874,2.9
+1710,Mahindra,Thar,2021,Petrol,Manual,Third,Hyderabad,74395,477608,4.2
+1711,Tata,Punch,2020,Diesel,Manual,Second,Jaipur,102539,364262,4.2
+1712,Renault,Triber,2016,Petrol,Manual,More than Third,Kochi,157516,146438,4.4
+1713,Kia,Sonet,2021,Diesel,Manual,Second,Delhi,118651,550837,4.9
+1714,Hyundai,Venue,2024,Diesel,Manual,More than Third,Jaipur,100144,467743,3.8
+1715,Skoda,Octavia,2025,Petrol,Automatic,Second,Jaipur,28155,782121,4.9
+1716,Kia,Carens,2009,Diesel,Manual,First,Kochi,203869,119810,4.4
+1717,Maruti,Baleno,2015,Petrol,Manual,Second,Ahmedabad,112372,153746,4.1
+1718,Tata,Harrier,2023,CNG,Manual,Second,Pune,95887,428216,4.0
+1719,Volkswagen,Taigun,2019,Petrol,Automatic,First,Jaipur,138131,312413,4.1
+1720,Renault,Duster,2024,Diesel,Manual,Second,Delhi,19758,500598,4.4
+1721,Toyota,Etios,2015,Diesel,Manual,First,Coimbatore,125512,465268,4.1
+1722,Toyota,Glanza,2009,Diesel,Manual,First,Ahmedabad,179648,122801,3.6
+1723,Ford,EcoSport,2013,Petrol,Manual,Third,Pune,175136,104490,4.2
+1724,Mahindra,Scorpio,2009,CNG,Automatic,Second,Jaipur,194532,69000,4.6
+1725,Renault,Kwid,2016,Petrol,Manual,Second,Ahmedabad,90381,299388,3.7
+1726,Nissan,Sunny,2012,Diesel,Manual,First,Coimbatore,163195,228363,4.0
+1727,Honda,Civic,2013,Diesel,Manual,First,Delhi,131898,332777,4.9
+1728,Volkswagen,Virtus,2020,Petrol,Manual,First,Chennai,39267,393988,4.0
+1729,Tata,Altroz,2016,Petrol,Manual,First,Delhi,64938,182753,4.2
+1730,Hyundai,Santro,2021,CNG,Automatic,First,Chennai,65060,646666,4.5
+1731,Ford,Endeavour,2023,Petrol,Manual,Second,Chennai,91492,405439,4.0
+1732,Maruti,Celerio,2020,Petrol,Manual,Second,Pune,94744,341962,4.0
+1733,MG,ZS EV,2009,Petrol,Manual,Third,Chennai,209207,129713,4.1
+1734,Kia,Carens,2010,Electric,Manual,Second,Pune,224287,78000,4.0
+1735,Nissan,Kicks,2023,Petrol,Manual,First,Hyderabad,74508,449177,4.3
+1736,Toyota,Innova,2014,Petrol,Manual,First,Coimbatore,107441,337365,4.3
+1737,Maruti,Wagon R,2022,Electric,Manual,First,Pune,35669,510604,3.8
+1738,Skoda,Rapid,2012,Petrol,Manual,First,Delhi,222974,158943,4.5
+1739,Kia,Carens,2015,Petrol,Manual,First,Pune,98489,326359,4.5
+1740,Volkswagen,Vento,2011,Petrol,Manual,Second,Bengaluru,168322,268550,4.4
+1741,Hyundai,Santro,2014,CNG,Manual,Third,Mumbai,90932,127256,3.8
+1742,Mahindra,XUV500,2016,Diesel,Manual,Second,Ahmedabad,159744,354975,4.0
+1743,Honda,Amaze,2009,Diesel,Manual,First,Jaipur,195285,88898,3.9
+1744,Kia,Seltos,2010,CNG,Automatic,More than Third,Ahmedabad,188451,108096,3.7
+1745,Toyota,Corolla,2025,Petrol,Manual,Third,Pune,48155,887961,4.0
+1746,Skoda,Rapid,2016,Petrol,Manual,First,Hyderabad,197568,283872,4.9
+1747,Kia,Carens,2016,Petrol,Manual,Second,Kochi,155979,264401,3.8
+1748,Ford,Endeavour,2011,Diesel,Manual,First,Kochi,203057,162336,4.2
+1749,Tata,Nexon,2021,Diesel,Manual,First,Bengaluru,84098,512419,4.1
+1750,Skoda,Rapid,2015,Petrol,Automatic,Second,Kochi,105069,312003,4.0
+1751,Toyota,Fortuner,2023,Petrol,Automatic,First,Kochi,29919,957444,4.4
+1752,Nissan,Magnite,2023,Petrol,Manual,Third,Mumbai,72862,444206,3.7
+1753,Hyundai,i20,2015,CNG,Automatic,Third,Delhi,128084,132089,3.8
+1754,Maruti,Wagon R,2018,Petrol,Automatic,Second,Ahmedabad,59191,373612,4.3
+1755,Ford,EcoSport,2023,Petrol,Manual,First,Coimbatore,66366,378663,4.8
+1756,Kia,Seltos,2020,Petrol,Automatic,Second,Hyderabad,70527,489067,4.6
+1757,Honda,Jazz,2016,Diesel,Automatic,First,Delhi,95517,371316,4.0
+1758,Toyota,Glanza,2016,Petrol,Automatic,First,Bengaluru,165895,567084,3.6
+1759,Honda,Jazz,2012,Petrol,Manual,First,Pune,143042,257909,4.2
+1760,Skoda,Kushaq,2023,Petrol,Automatic,Second,Jaipur,67967,660841,3.8
+1761,Nissan,Sunny,2015,Diesel,Manual,Second,Bengaluru,147804,254589,4.1
+1762,Ford,EcoSport,2025,Petrol,Manual,Second,Pune,71056,524767,4.4
+1763,Honda,Amaze,2020,Diesel,Manual,Second,Hyderabad,66377,583658,3.7
+1764,Skoda,Rapid,2012,Petrol,Manual,First,Hyderabad,155602,163215,4.3
+1765,Kia,Carens,2025,Diesel,Manual,Second,Hyderabad,82312,770517,4.1
+1766,Ford,Endeavour,2021,Petrol,Automatic,Second,Pune,87935,433856,4.0
+1767,Mahindra,XUV300,2011,CNG,Manual,First,Coimbatore,155379,124882,4.2
+1768,Ford,Endeavour,2021,Petrol,Manual,First,Hyderabad,111051,439480,4.3
+1769,Maruti,Wagon R,2022,Diesel,Automatic,Second,Pune,82456,425755,3.4
+1770,Honda,City,2018,Petrol,Manual,First,Jaipur,99714,349166,4.9
+1771,Hyundai,i20,2013,Petrol,Automatic,Third,Hyderabad,131480,242173,4.3
+1772,Honda,Civic,2010,Diesel,Manual,Third,Coimbatore,127591,70500,5.0
+1773,Mahindra,XUV300,2009,Petrol,Manual,First,Chennai,181777,147589,4.3
+1774,MG,Hector,2020,Diesel,Automatic,Second,Bengaluru,113126,901606,4.1
+1775,Toyota,Glanza,2022,Diesel,Manual,Third,Ahmedabad,85767,610708,3.8
+1776,Ford,EcoSport,2018,Petrol,Manual,First,Jaipur,88882,255307,3.5
+1777,Honda,Jazz,2015,Petrol,Manual,Second,Hyderabad,130451,224905,4.0
+1778,Renault,Kwid,2024,Electric,Manual,First,Delhi,102041,562955,4.0
+1779,Kia,Seltos,2017,Petrol,Manual,First,Mumbai,116815,517117,4.3
+1780,Ford,EcoSport,2023,Petrol,Manual,Third,Kochi,78092,322753,4.4
+1781,MG,ZS EV,2024,Petrol,Manual,First,Bengaluru,88441,974530,4.2
+1782,Renault,Triber,2019,Petrol,Manual,First,Bengaluru,95222,365290,4.6
+1783,Kia,Seltos,2018,Petrol,Automatic,Second,Jaipur,89159,358720,4.7
+1784,Toyota,Innova,2011,CNG,Manual,First,Chennai,166395,209881,3.6
+1785,Hyundai,i20,2015,Diesel,Manual,First,Coimbatore,123072,236746,4.3
+1786,Volkswagen,Vento,2018,Electric,Manual,Second,Kochi,97766,355317,4.7
+1787,MG,Hector,2020,Petrol,Manual,First,Pune,115595,655468,3.9
+1788,Mahindra,Bolero,2024,Petrol,Manual,Third,Jaipur,115605,468366,4.2
+1789,Kia,Seltos,2025,Petrol,Manual,Second,Kochi,57301,683994,4.5
+1790,Hyundai,Creta,2013,Petrol,Automatic,First,Coimbatore,115861,183052,3.8
+1791,Ford,EcoSport,2012,Diesel,Automatic,More than Third,Jaipur,160068,119083,4.2
+1792,Nissan,Kicks,2015,Petrol,Manual,More than Third,Pune,125985,195606,4.1
+1793,Skoda,Rapid,2011,Petrol,Automatic,First,Ahmedabad,170209,302020,3.7
+1794,MG,ZS EV,2024,Diesel,Automatic,First,Hyderabad,97686,970549,3.8
+1795,Renault,Kiger,2025,Petrol,Manual,Third,Bengaluru,86298,390146,4.2
+1796,Mahindra,Thar,2012,Petrol,Automatic,First,Delhi,178587,133292,3.8
+1797,Mahindra,XUV500,2023,Petrol,Manual,Second,Delhi,51111,558793,4.2
+1798,MG,ZS EV,2011,Petrol,Automatic,Third,Coimbatore,137583,70500,5.0
+1799,Hyundai,Verna,2020,Petrol,Manual,Second,Pune,89048,357827,4.5
+1800,Hyundai,Verna,2014,Petrol,Manual,First,Kochi,139922,235472,4.6
